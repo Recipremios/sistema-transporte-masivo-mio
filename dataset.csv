@@ -1,0 +1,1209 @@
+﻿Origen;Destino;Ruta;TiempoViaje;Hora;DíaSemana;Pasajeros;Retraso
+Capri;San Fernando;T31;6;1:00:00 p. m.;Viernes;71;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;9:45:00 p. m.;Lunes;61;4
+Estadio;San Fernando;T47A;7;3:45:00 p. m.;Jueves;46;0
+Universidades;San Fernando;T47A;6;6:30:00 p. m.;Sábado;97;1
+San Fernando;Capri;T31;7;6:45:00 p. m.;Lunes;17;1
+Universidades;San Fernando;T47A;5;7:45:00 a. m.;Viernes;59;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;8:30:00 a. m.;Jueves;76;0
+San Fernando;Estadio;T47A;11;7:00:00 a. m.;Viernes;12;4
+San Fernando;Estadio;T47A;8;6:00:00 p. m.;Domingo;65;1
+San Bosco;Centro;T50;7;3:00:00 p. m.;Domingo;22;2
+Centro;San Bosco;T50;6;6:45:00 p. m.;Lunes;71;1
+Capri;Centro;T31;15;5:45:00 a. m.;Miércoles;20;5
+San Bosco;Centro;T50;7;5:45:00 a. m.;Viernes;42;2
+San Fernando;Universidades;T47A;9;9:45:00 p. m.;Martes;91;4
+Estadio;San Fernando;T47A;12;2:45:00 p. m.;Miércoles;63;5
+Centro;Terminal Andrés Sanín;E21;9;6:45:00 a. m.;Jueves;38;1
+Centro;Terminal Andrés Sanín;E21;11;9:00:00 a. m.;Viernes;97;3
+Capri;San Fernando;T31;11;9:45:00 p. m.;Viernes;82;5
+San Fernando;Estadio;T47A;11;11:45:00 a. m.;Lunes;49;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;5:15:00 p. m.;Sábado;99;1
+Centro;San Bosco;T50;8;7:15:00 a. m.;Lunes;48;3
+Centro;Capri;T31;11;7:30:00 a. m.;Lunes;80;1
+Universidades;Meléndez;P21A;6;8:15:00 p. m.;Viernes;34;2
+Estadio;San Fernando;T47A;8;9:00:00 p. m.;Viernes;93;1
+Estadio;San Bosco;T50;10;3:45:00 p. m.;Jueves;70;4
+San Bosco;Centro;T50;7;7:15:00 a. m.;Lunes;48;2
+Universidades;Meléndez;P21A;4;3:30:00 p. m.;Sábado;45;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;3:30:00 p. m.;Viernes;60;5
+Unidad Deportiva;Meléndez;P21A;10;2:45:00 p. m.;Sábado;65;5
+Universidades;San Fernando;T47A;6;10:45:00 p. m.;Miércoles;66;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;5:45:00 a. m.;Sábado;41;3
+Universidades;Meléndez;P21A;7;2:00:00 p. m.;Viernes;31;3
+Centro;Capri;T31;13;1:00:00 p. m.;Martes;60;3
+San Fernando;Universidades;T47A;6;9:15:00 p. m.;Sábado;31;1
+Universidades;Meléndez;P21A;7;12:15:00 p. m.;Miércoles;69;3
+Centro;Terminal Andrés Sanín;E21;8;3:00:00 p. m.;Sábado;11;0
+San Fernando;Capri;T31;10;4:45:00 p. m.;Martes;78;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;10:30:00 p. m.;Sábado;61;0
+San Bosco;Estadio;T50;7;3:15:00 p. m.;Miércoles;87;1
+Estadio;San Fernando;T47A;10;8:00:00 p. m.;Sábado;100;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;10:00:00 p. m.;Jueves;19;3
+Centro;San Bosco;T50;8;9:00:00 a. m.;Viernes;53;3
+San Fernando;Estadio;T47A;11;12:45:00 p. m.;Martes;15;4
+San Fernando;Estadio;T47A;10;1:30:00 p. m.;Sábado;81;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;9:15:00 a. m.;Domingo;56;0
+Estadio;San Fernando;T47A;10;11:00:00 a. m.;Lunes;42;3
+Estadio;San Bosco;T50;11;2:00:00 p. m.;Lunes;64;5
+Estadio;San Bosco;T50;11;7:15:00 a. m.;Miércoles;16;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;6:45:00 a. m.;Viernes;18;0
+Estadio;San Fernando;T47A;9;10:30:00 a. m.;Viernes;31;2
+Universidades;Meléndez;P21A;4;4:00:00 p. m.;Sábado;72;0
+Capri;Centro;T31;14;9:15:00 a. m.;Sábado;73;4
+Estadio;San Bosco;T50;7;5:45:00 p. m.;Miércoles;64;1
+Centro;Capri;T31;15;3:30:00 p. m.;Viernes;51;5
+San Fernando;Universidades;T47A;6;1:45:00 p. m.;Jueves;14;1
+San Fernando;Capri;T31;6;1:30:00 p. m.;Viernes;43;0
+Meléndez;Universidades;P21A;4;7:30:00 p. m.;Lunes;93;0
+Estadio;San Bosco;T50;6;12:30:00 p. m.;Domingo;33;0
+Estadio;San Bosco;T50;9;4:00:00 p. m.;Lunes;89;3
+Capri;San Fernando;T31;7;7:15:00 a. m.;Martes;47;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;11:30:00 a. m.;Domingo;22;4
+Estadio;San Fernando;T47A;10;8:15:00 p. m.;Lunes;24;3
+Estadio;San Bosco;T50;11;9:45:00 a. m.;Sábado;72;5
+Universidades;San Fernando;T47A;10;8:30:00 a. m.;Martes;58;5
+Centro;Terminal Andrés Sanín;E21;8;11:45:00 a. m.;Viernes;52;0
+San Bosco;Centro;T50;10;6:00:00 p. m.;Viernes;76;5
+Capri;Estadio;T31;5;4:15:00 p. m.;Viernes;74;1
+Universidades;Meléndez;P21A;4;6:30:00 a. m.;Martes;80;0
+San Bosco;Estadio;T50;6;4:00:00 p. m.;Lunes;11;0
+San Fernando;Estadio;T47A;11;6:00:00 a. m.;Sábado;53;4
+San Bosco;Centro;T50;10;8:30:00 p. m.;Viernes;96;5
+San Fernando;Capri;T31;9;5:45:00 a. m.;Domingo;30;3
+Universidades;Meléndez;P21A;7;3:15:00 p. m.;Sábado;15;3
+Estadio;Capri;T31;8;9:15:00 p. m.;Lunes;55;4
+Estadio;Capri;T31;4;7:45:00 a. m.;Domingo;35;0
+San Fernando;Universidades;T47A;8;7:00:00 a. m.;Domingo;70;3
+Universidades;Meléndez;P21A;7;1:45:00 p. m.;Jueves;39;3
+San Fernando;Estadio;T47A;11;8:15:00 a. m.;Jueves;85;4
+San Bosco;Estadio;T50;11;7:30:00 p. m.;Martes;61;5
+Estadio;San Bosco;T50;8;1:45:00 p. m.;Lunes;49;2
+Unidad Deportiva;Meléndez;P21A;5;11:00:00 a. m.;Lunes;11;0
+San Fernando;Capri;T31;11;5:45:00 a. m.;Sábado;25;5
+Capri;San Fernando;T31;7;4:15:00 p. m.;Sábado;60;1
+Meléndez;Universidades;P21A;7;7:30:00 a. m.;Viernes;47;3
+Terminal Andrés Sanín;Centro;E21;13;8:15:00 a. m.;Sábado;22;5
+Unidad Deportiva;Meléndez;P21A;9;7:15:00 p. m.;Lunes;33;4
+San Fernando;Estadio;T47A;7;11:30:00 a. m.;Domingo;83;0
+Centro;San Bosco;T50;6;9:00:00 a. m.;Viernes;62;1
+Capri;Estadio;T31;8;1:45:00 p. m.;Sábado;70;4
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;3:30:00 p. m.;Viernes;34;0
+Universidades;San Fernando;T47A;5;5:30:00 a. m.;Sábado;25;0
+Estadio;Capri;T31;8;10:30:00 a. m.;Lunes;93;4
+Centro;Terminal Andrés Sanín;E21;8;10:00:00 p. m.;Sábado;63;0
+Estadio;San Bosco;T50;8;7:15:00 a. m.;Viernes;94;2
+San Fernando;Universidades;T47A;10;12:30:00 p. m.;Martes;81;5
+Estadio;Capri;T31;9;1:45:00 p. m.;Domingo;10;5
+Terminal Andrés Sanín;Centro;E21;10;6:15:00 a. m.;Domingo;67;2
+San Fernando;Capri;T31;8;7:15:00 p. m.;Lunes;59;2
+Terminal Andrés Sanín;Centro;E21;11;6:15:00 a. m.;Domingo;72;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;1:00:00 p. m.;Viernes;33;3
+Estadio;San Fernando;T47A;9;6:15:00 a. m.;Jueves;31;2
+Centro;San Bosco;T50;9;9:00:00 p. m.;Sábado;65;4
+Meléndez;Unidad Deportiva;P21A;8;8:15:00 p. m.;Sábado;11;3
+San Bosco;Estadio;T50;6;10:00:00 a. m.;Jueves;65;0
+Estadio;San Bosco;T50;10;11:45:00 a. m.;Miércoles;23;4
+Estadio;San Fernando;T47A;7;9:45:00 p. m.;Jueves;28;0
+Terminal Andrés Sanín;Centro;E21;13;9:15:00 a. m.;Jueves;62;5
+Estadio;San Fernando;T47A;7;7:15:00 p. m.;Domingo;64;0
+Universidades;Meléndez;P21A;7;9:00:00 p. m.;Domingo;47;3
+Universidades;Meléndez;P21A;6;8:45:00 p. m.;Domingo;17;2
+Centro;Capri;T31;14;9:15:00 a. m.;Sábado;54;4
+Estadio;Capri;T31;8;5:15:00 p. m.;Miércoles;59;4
+Centro;Capri;T31;15;10:00:00 p. m.;Domingo;97;5
+Centro;Terminal Andrés Sanín;E21;12;10:45:00 a. m.;Miércoles;94;4
+Terminal Andrés Sanín;Centro;E21;9;9:45:00 a. m.;Miércoles;22;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;8:30:00 p. m.;Martes;18;0
+Meléndez;Unidad Deportiva;P21A;7;7:15:00 p. m.;Lunes;71;2
+Centro;San Bosco;T50;7;6:00:00 p. m.;Jueves;91;2
+Centro;Terminal Andrés Sanín;E21;12;9:30:00 a. m.;Domingo;11;4
+Terminal Andrés Sanín;Centro;E21;8;3:30:00 p. m.;Viernes;63;0
+Estadio;Capri;T31;6;12:45:00 p. m.;Domingo;48;2
+Universidades;Meléndez;P21A;8;2:30:00 p. m.;Martes;52;4
+Estadio;San Bosco;T50;11;3:00:00 p. m.;Domingo;25;5
+Centro;Terminal Andrés Sanín;E21;11;3:45:00 p. m.;Miércoles;31;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;6:45:00 a. m.;Jueves;45;0
+Universidades;Meléndez;P21A;9;12:45:00 p. m.;Viernes;72;5
+Meléndez;Unidad Deportiva;P21A;8;9:15:00 a. m.;Miércoles;89;3
+Meléndez;Unidad Deportiva;P21A;6;7:30:00 a. m.;Lunes;97;1
+Estadio;San Bosco;T50;8;10:45:00 a. m.;Lunes;17;2
+San Bosco;Centro;T50;5;12:15:00 p. m.;Lunes;63;0
+Unidad Deportiva;Meléndez;P21A;5;11:30:00 a. m.;Lunes;99;0
+Centro;Capri;T31;10;6:00:00 a. m.;Domingo;76;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;9:00:00 a. m.;Viernes;64;5
+Capri;Estadio;T31;8;3:45:00 p. m.;Miércoles;84;4
+Capri;Centro;T31;14;7:15:00 p. m.;Jueves;95;4
+Meléndez;Universidades;P21A;9;10:15:00 a. m.;Miércoles;92;5
+San Fernando;Universidades;T47A;8;3:15:00 p. m.;Lunes;35;3
+Universidades;San Fernando;T47A;6;1:45:00 p. m.;Lunes;54;1
+Estadio;Capri;T31;8;7:30:00 p. m.;Jueves;17;4
+Centro;San Bosco;T50;8;11:00:00 a. m.;Jueves;89;3
+Estadio;Capri;T31;7;6:00:00 p. m.;Miércoles;33;3
+Terminal Andrés Sanín;Centro;E21;12;7:30:00 a. m.;Jueves;47;4
+Estadio;Capri;T31;9;2:15:00 p. m.;Martes;92;5
+Unidad Deportiva;Meléndez;P21A;8;12:15:00 p. m.;Miércoles;47;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;12:30:00 p. m.;Martes;18;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;1:15:00 p. m.;Miércoles;98;2
+Capri;Centro;T31;14;2:00:00 p. m.;Domingo;29;4
+Meléndez;Unidad Deportiva;P21A;5;9:15:00 p. m.;Domingo;14;0
+Estadio;Capri;T31;9;7:45:00 a. m.;Domingo;18;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;3:15:00 p. m.;Domingo;67;0
+Meléndez;Universidades;P21A;5;3:45:00 p. m.;Domingo;31;1
+Estadio;San Fernando;T47A;8;9:45:00 a. m.;Domingo;58;1
+Capri;Centro;T31;14;6:45:00 p. m.;Viernes;69;4
+Capri;San Fernando;T31;9;7:00:00 p. m.;Sábado;54;3
+San Fernando;Universidades;T47A;6;6:30:00 p. m.;Domingo;83;1
+San Fernando;Capri;T31;7;4:45:00 p. m.;Jueves;66;1
+San Fernando;Capri;T31;9;11:00:00 a. m.;Jueves;82;3
+Centro;Capri;T31;11;5:00:00 a. m.;Viernes;46;1
+Capri;San Fernando;T31;7;4:45:00 p. m.;Lunes;82;1
+Capri;San Fernando;T31;8;10:45:00 a. m.;Domingo;93;2
+Centro;Capri;T31;10;10:00:00 a. m.;Domingo;71;0
+San Fernando;Capri;T31;10;1:15:00 p. m.;Domingo;60;4
+Universidades;Meléndez;P21A;8;10:15:00 a. m.;Lunes;70;4
+Meléndez;Unidad Deportiva;P21A;5;7:30:00 a. m.;Domingo;76;0
+Meléndez;Unidad Deportiva;P21A;6;1:30:00 p. m.;Viernes;49;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;5:45:00 a. m.;Jueves;58;2
+Centro;San Bosco;T50;9;7:00:00 p. m.;Viernes;11;4
+Centro;Capri;T31;12;9:30:00 p. m.;Jueves;77;2
+Centro;San Bosco;T50;7;5:30:00 a. m.;Sábado;73;2
+Universidades;Meléndez;P21A;5;9:15:00 a. m.;Martes;91;1
+Centro;Capri;T31;13;9:15:00 a. m.;Viernes;62;3
+Capri;San Fernando;T31;7;4:15:00 p. m.;Viernes;10;1
+Centro;Capri;T31;12;5:30:00 a. m.;Miércoles;75;2
+Meléndez;Unidad Deportiva;P21A;5;10:45:00 a. m.;Sábado;41;0
+Meléndez;Unidad Deportiva;P21A;6;1:15:00 p. m.;Miércoles;14;1
+Estadio;Capri;T31;6;4:30:00 p. m.;Jueves;61;2
+Capri;San Fernando;T31;8;12:45:00 p. m.;Domingo;56;2
+Universidades;Meléndez;P21A;7;1:00:00 p. m.;Martes;89;3
+San Bosco;Centro;T50;10;2:00:00 p. m.;Jueves;74;5
+Capri;Centro;T31;15;5:30:00 p. m.;Jueves;74;5
+Unidad Deportiva;Meléndez;P21A;5;8:00:00 p. m.;Martes;84;0
+San Fernando;Capri;T31;7;12:00:00 p. m.;Lunes;58;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;5:30:00 p. m.;Miércoles;52;4
+Estadio;San Bosco;T50;9;8:00:00 p. m.;Lunes;91;3
+San Fernando;Universidades;T47A;10;5:15:00 a. m.;Lunes;75;5
+San Bosco;Estadio;T50;8;4:45:00 p. m.;Sábado;77;2
+San Fernando;Universidades;T47A;5;8:15:00 a. m.;Sábado;67;0
+Meléndez;Universidades;P21A;5;6:00:00 p. m.;Viernes;18;1
+San Fernando;Universidades;T47A;8;5:30:00 a. m.;Martes;67;3
+Centro;Terminal Andrés Sanín;E21;12;10:45:00 p. m.;Miércoles;90;4
+Meléndez;Universidades;P21A;7;4:30:00 p. m.;Domingo;37;3
+Centro;San Bosco;T50;9;7:00:00 p. m.;Jueves;96;4
+Centro;Capri;T31;14;7:00:00 a. m.;Domingo;31;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;5:30:00 p. m.;Jueves;77;5
+Centro;Capri;T31;11;2:45:00 p. m.;Domingo;37;1
+San Fernando;Estadio;T47A;8;10:45:00 p. m.;Viernes;61;1
+Capri;San Fernando;T31;11;11:00:00 a. m.;Sábado;85;5
+Estadio;Capri;T31;5;3:45:00 p. m.;Jueves;59;1
+Universidades;San Fernando;T47A;8;8:00:00 a. m.;Viernes;65;3
+Estadio;San Bosco;T50;10;9:45:00 a. m.;Viernes;89;4
+Terminal Andrés Sanín;Centro;E21;11;7:30:00 a. m.;Viernes;69;3
+Meléndez;Unidad Deportiva;P21A;6;3:00:00 p. m.;Domingo;76;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;8:15:00 a. m.;Lunes;28;1
+Terminal Andrés Sanín;Centro;E21;10;8:45:00 a. m.;Domingo;31;2
+San Fernando;Universidades;T47A;8;10:30:00 p. m.;Lunes;25;3
+San Bosco;Estadio;T50;8;5:30:00 a. m.;Viernes;19;2
+Meléndez;Unidad Deportiva;P21A;8;3:15:00 p. m.;Lunes;66;3
+Meléndez;Universidades;P21A;7;8:15:00 p. m.;Miércoles;19;3
+San Fernando;Universidades;T47A;8;7:15:00 a. m.;Viernes;43;3
+Meléndez;Universidades;P21A;7;12:30:00 p. m.;Sábado;41;3
+Unidad Deportiva;Meléndez;P21A;6;2:30:00 p. m.;Miércoles;73;1
+Centro;San Bosco;T50;8;2:30:00 p. m.;Lunes;34;3
+Meléndez;Unidad Deportiva;P21A;5;9:00:00 p. m.;Miércoles;99;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;11:00:00 a. m.;Domingo;80;4
+Meléndez;Unidad Deportiva;P21A;6;9:00:00 p. m.;Martes;16;1
+Centro;Capri;T31;15;6:45:00 p. m.;Lunes;14;5
+San Bosco;Centro;T50;8;12:15:00 p. m.;Miércoles;30;3
+Terminal Andrés Sanín;Centro;E21;9;6:45:00 p. m.;Viernes;35;1
+San Bosco;Estadio;T50;8;12:30:00 p. m.;Sábado;32;2
+Terminal Andrés Sanín;Centro;E21;10;6:15:00 a. m.;Jueves;98;2
+Estadio;San Fernando;T47A;9;9:15:00 a. m.;Miércoles;55;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;1:15:00 p. m.;Jueves;72;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;6:45:00 p. m.;Viernes;57;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;6:15:00 a. m.;Jueves;19;4
+Centro;San Bosco;T50;9;10:45:00 a. m.;Miércoles;94;4
+Universidades;San Fernando;T47A;10;10:00:00 a. m.;Martes;76;5
+Centro;Terminal Andrés Sanín;E21;9;9:00:00 a. m.;Miércoles;12;1
+Centro;Terminal Andrés Sanín;E21;8;5:45:00 p. m.;Sábado;78;0
+Unidad Deportiva;Meléndez;P21A;10;5:15:00 p. m.;Lunes;73;5
+Estadio;San Fernando;T47A;11;5:15:00 a. m.;Domingo;57;4
+Centro;Capri;T31;13;8:30:00 p. m.;Lunes;34;3
+Centro;Terminal Andrés Sanín;E21;9;2:30:00 p. m.;Martes;21;1
+San Fernando;Universidades;T47A;6;6:15:00 a. m.;Miércoles;14;1
+Unidad Deportiva;Meléndez;P21A;7;6:45:00 a. m.;Miércoles;15;2
+Meléndez;Unidad Deportiva;P21A;6;4:00:00 p. m.;Domingo;37;1
+Estadio;Capri;T31;6;10:30:00 a. m.;Miércoles;41;2
+Universidades;San Fernando;T47A;10;2:15:00 p. m.;Domingo;35;5
+Meléndez;Universidades;P21A;8;10:45:00 p. m.;Lunes;75;4
+Centro;Capri;T31;11;6:00:00 p. m.;Martes;15;1
+Centro;Terminal Andrés Sanín;E21;11;10:30:00 p. m.;Domingo;39;3
+Universidades;San Fernando;T47A;9;7:15:00 p. m.;Sábado;17;4
+San Fernando;Capri;T31;9;12:30:00 p. m.;Lunes;88;3
+Universidades;San Fernando;T47A;8;11:30:00 a. m.;Jueves;87;3
+Estadio;San Fernando;T47A;12;9:15:00 p. m.;Jueves;56;5
+Centro;Capri;T31;11;12:15:00 p. m.;Sábado;74;1
+Capri;San Fernando;T31;9;4:30:00 p. m.;Viernes;50;3
+Estadio;Capri;T31;8;3:45:00 p. m.;Jueves;40;4
+Capri;Centro;T31;15;2:45:00 p. m.;Jueves;11;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;2:45:00 p. m.;Miércoles;37;3
+San Bosco;Estadio;T50;11;2:15:00 p. m.;Viernes;36;5
+San Fernando;Capri;T31;7;2:45:00 p. m.;Jueves;93;1
+Meléndez;Unidad Deportiva;P21A;9;5:30:00 p. m.;Sábado;93;4
+Estadio;San Bosco;T50;9;8:30:00 p. m.;Sábado;36;3
+Unidad Deportiva;Meléndez;P21A;7;5:45:00 p. m.;Viernes;36;2
+San Bosco;Estadio;T50;6;7:45:00 a. m.;Miércoles;73;0
+Capri;Estadio;T31;5;11:30:00 a. m.;Viernes;86;1
+San Fernando;Universidades;T47A;5;6:30:00 a. m.;Martes;25;0
+Universidades;San Fernando;T47A;7;9:00:00 a. m.;Martes;26;2
+Terminal Andrés Sanín;Centro;E21;8;5:30:00 p. m.;Viernes;42;0
+Capri;Centro;T31;12;9:45:00 p. m.;Miércoles;36;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;3:15:00 p. m.;Viernes;35;5
+San Bosco;Estadio;T50;6;7:45:00 p. m.;Sábado;27;0
+Capri;San Fernando;T31;7;10:45:00 p. m.;Jueves;91;1
+Capri;Estadio;T31;8;5:45:00 p. m.;Viernes;90;4
+San Bosco;Estadio;T50;9;9:30:00 p. m.;Domingo;25;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;7:00:00 a. m.;Lunes;26;0
+Estadio;San Bosco;T50;10;6:45:00 a. m.;Jueves;37;4
+Centro;Terminal Andrés Sanín;E21;11;7:15:00 p. m.;Miércoles;67;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;6:00:00 p. m.;Miércoles;78;3
+Estadio;San Fernando;T47A;8;4:15:00 p. m.;Martes;49;1
+Capri;San Fernando;T31;11;12:00:00 p. m.;Lunes;55;5
+Centro;Terminal Andrés Sanín;E21;13;5:30:00 a. m.;Domingo;39;5
+Terminal Andrés Sanín;Centro;E21;13;10:45:00 a. m.;Viernes;22;5
+Estadio;Capri;T31;9;2:00:00 p. m.;Sábado;33;5
+Capri;San Fernando;T31;11;9:45:00 p. m.;Martes;97;5
+Estadio;San Bosco;T50;8;2:00:00 p. m.;Lunes;25;2
+Capri;Centro;T31;12;8:00:00 a. m.;Lunes;56;2
+Estadio;Capri;T31;5;11:45:00 a. m.;Domingo;24;1
+Capri;San Fernando;T31;6;8:30:00 p. m.;Martes;98;0
+Estadio;Capri;T31;6;3:30:00 p. m.;Martes;20;2
+San Fernando;Capri;T31;9;5:15:00 a. m.;Domingo;16;3
+San Bosco;Centro;T50;9;5:15:00 a. m.;Martes;50;4
+Universidades;Meléndez;P21A;8;9:00:00 a. m.;Viernes;80;4
+San Bosco;Estadio;T50;11;8:00:00 p. m.;Domingo;88;5
+San Fernando;Universidades;T47A;10;3:30:00 p. m.;Domingo;100;5
+Estadio;San Bosco;T50;8;8:00:00 p. m.;Lunes;54;2
+San Fernando;Estadio;T47A;9;3:15:00 p. m.;Domingo;60;2
+Capri;Centro;T31;11;6:15:00 a. m.;Lunes;10;1
+Estadio;San Bosco;T50;11;1:30:00 p. m.;Lunes;96;5
+Centro;San Bosco;T50;6;7:30:00 a. m.;Miércoles;11;1
+Meléndez;Universidades;P21A;4;3:30:00 p. m.;Domingo;48;0
+Unidad Deportiva;Meléndez;P21A;6;12:30:00 p. m.;Domingo;28;1
+San Fernando;Capri;T31;7;10:30:00 p. m.;Lunes;100;1
+San Fernando;Universidades;T47A;7;4:30:00 p. m.;Sábado;59;2
+San Fernando;Capri;T31;10;11:45:00 a. m.;Sábado;37;4
+Capri;Centro;T31;13;2:30:00 p. m.;Lunes;97;3
+Terminal Andrés Sanín;Centro;E21;12;7:30:00 a. m.;Lunes;55;4
+Capri;Centro;T31;15;11:15:00 a. m.;Lunes;61;5
+Universidades;San Fernando;T47A;9;5:15:00 p. m.;Viernes;33;4
+San Bosco;Centro;T50;5;7:15:00 p. m.;Miércoles;82;0
+Terminal Andrés Sanín;Centro;E21;10;3:45:00 p. m.;Sábado;100;2
+Terminal Andrés Sanín;Centro;E21;13;6:45:00 a. m.;Miércoles;89;5
+Capri;Estadio;T31;8;6:30:00 a. m.;Sábado;90;4
+Capri;Estadio;T31;8;10:00:00 a. m.;Martes;69;4
+Terminal Andrés Sanín;Centro;E21;8;12:00:00 p. m.;Sábado;49;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;2:15:00 p. m.;Domingo;27;5
+Meléndez;Universidades;P21A;6;6:45:00 a. m.;Martes;72;2
+San Fernando;Capri;T31;6;12:45:00 p. m.;Sábado;88;0
+Meléndez;Unidad Deportiva;P21A;5;9:30:00 a. m.;Lunes;71;0
+Universidades;Meléndez;P21A;7;10:30:00 p. m.;Martes;87;3
+Universidades;San Fernando;T47A;10;2:30:00 p. m.;Viernes;85;5
+Unidad Deportiva;Meléndez;P21A;9;1:45:00 p. m.;Martes;92;4
+Capri;Estadio;T31;7;6:30:00 p. m.;Viernes;89;3
+San Bosco;Estadio;T50;10;5:30:00 p. m.;Sábado;51;4
+Terminal Andrés Sanín;Centro;E21;10;6:15:00 p. m.;Sábado;18;2
+Universidades;San Fernando;T47A;7;4:00:00 p. m.;Domingo;44;2
+Estadio;Capri;T31;8;9:00:00 a. m.;Jueves;19;4
+Meléndez;Unidad Deportiva;P21A;6;8:45:00 p. m.;Lunes;96;1
+Universidades;Meléndez;P21A;9;9:15:00 p. m.;Miércoles;20;5
+Estadio;Capri;T31;8;1:00:00 p. m.;Jueves;53;4
+Centro;San Bosco;T50;7;9:15:00 a. m.;Jueves;33;2
+San Fernando;Universidades;T47A;9;1:45:00 p. m.;Jueves;52;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;6:45:00 a. m.;Miércoles;50;2
+Estadio;San Bosco;T50;7;9:00:00 p. m.;Miércoles;32;1
+San Fernando;Universidades;T47A;7;5:45:00 a. m.;Martes;38;2
+Universidades;Meléndez;P21A;4;10:15:00 p. m.;Viernes;87;0
+Estadio;San Bosco;T50;6;6:30:00 p. m.;Viernes;57;0
+Centro;Terminal Andrés Sanín;E21;12;5:00:00 p. m.;Lunes;11;4
+Terminal Andrés Sanín;Centro;E21;12;12:15:00 p. m.;Viernes;31;4
+Unidad Deportiva;Meléndez;P21A;9;4:15:00 p. m.;Martes;41;4
+San Fernando;Capri;T31;10;8:15:00 a. m.;Jueves;98;4
+Capri;Centro;T31;11;9:00:00 p. m.;Sábado;65;1
+Meléndez;Universidades;P21A;8;4:45:00 p. m.;Miércoles;97;4
+Capri;San Fernando;T31;7;3:15:00 p. m.;Martes;53;1
+Meléndez;Unidad Deportiva;P21A;7;10:15:00 p. m.;Sábado;99;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;9:15:00 p. m.;Jueves;79;1
+Capri;Estadio;T31;6;12:30:00 p. m.;Sábado;44;2
+San Bosco;Centro;T50;10;10:00:00 a. m.;Jueves;33;5
+Meléndez;Unidad Deportiva;P21A;9;8:00:00 p. m.;Miércoles;32;4
+San Fernando;Estadio;T47A;12;12:45:00 p. m.;Viernes;12;5
+Estadio;San Fernando;T47A;9;5:45:00 a. m.;Lunes;52;2
+San Fernando;Universidades;T47A;9;6:30:00 p. m.;Miércoles;76;4
+Estadio;Capri;T31;7;9:30:00 p. m.;Lunes;29;3
+Terminal Andrés Sanín;Centro;E21;13;6:00:00 a. m.;Miércoles;95;5
+Centro;Capri;T31;11;6:45:00 a. m.;Miércoles;68;1
+Capri;San Fernando;T31;6;2:15:00 p. m.;Lunes;78;0
+San Fernando;Estadio;T47A;12;6:00:00 a. m.;Domingo;96;5
+San Bosco;Centro;T50;7;8:30:00 a. m.;Lunes;40;2
+Meléndez;Unidad Deportiva;P21A;6;4:30:00 p. m.;Martes;80;1
+Terminal Andrés Sanín;Centro;E21;11;5:15:00 p. m.;Miércoles;18;3
+San Fernando;Universidades;T47A;9;12:00:00 p. m.;Sábado;98;4
+Centro;Terminal Andrés Sanín;E21;8;12:00:00 p. m.;Sábado;12;0
+Estadio;Capri;T31;8;4:45:00 p. m.;Miércoles;65;4
+Centro;Capri;T31;15;9:30:00 p. m.;Domingo;40;5
+Universidades;San Fernando;T47A;10;7:15:00 p. m.;Lunes;16;5
+San Fernando;Universidades;T47A;6;5:15:00 a. m.;Viernes;22;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;7:15:00 p. m.;Martes;83;4
+San Fernando;Capri;T31;11;8:30:00 a. m.;Martes;23;5
+Terminal Andrés Sanín;Centro;E21;11;9:45:00 p. m.;Miércoles;95;3
+San Bosco;Centro;T50;10;9:45:00 p. m.;Miércoles;56;5
+Terminal Andrés Sanín;Centro;E21;10;10:45:00 p. m.;Lunes;29;2
+San Bosco;Centro;T50;10;7:45:00 p. m.;Domingo;15;5
+San Fernando;Estadio;T47A;8;10:15:00 p. m.;Sábado;34;1
+Centro;Terminal Andrés Sanín;E21;10;3:45:00 p. m.;Martes;22;2
+Centro;San Bosco;T50;7;4:45:00 p. m.;Miércoles;44;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;5:00:00 a. m.;Miércoles;54;5
+San Fernando;Capri;T31;8;11:15:00 a. m.;Miércoles;56;2
+Estadio;San Bosco;T50;8;5:45:00 a. m.;Martes;24;2
+Universidades;San Fernando;T47A;5;7:00:00 p. m.;Jueves;38;0
+Universidades;Meléndez;P21A;4;2:45:00 p. m.;Sábado;75;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;8:15:00 p. m.;Viernes;91;3
+Unidad Deportiva;Meléndez;P21A;8;9:45:00 p. m.;Martes;74;3
+San Fernando;Capri;T31;10;4:30:00 p. m.;Jueves;98;4
+Centro;Capri;T31;10;1:00:00 p. m.;Viernes;43;0
+San Fernando;Estadio;T47A;7;11:15:00 a. m.;Jueves;71;0
+Capri;Centro;T31;11;5:00:00 p. m.;Miércoles;15;1
+San Bosco;Estadio;T50;9;10:30:00 a. m.;Miércoles;21;3
+Estadio;Capri;T31;5;4:30:00 p. m.;Miércoles;30;1
+Capri;San Fernando;T31;6;8:30:00 p. m.;Martes;60;0
+Estadio;San Fernando;T47A;10;8:45:00 a. m.;Sábado;73;3
+Centro;San Bosco;T50;6;6:30:00 a. m.;Martes;66;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;12:45:00 p. m.;Miércoles;67;4
+Meléndez;Unidad Deportiva;P21A;10;7:15:00 p. m.;Lunes;35;5
+Centro;Capri;T31;10;12:00:00 p. m.;Martes;57;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;6:30:00 a. m.;Jueves;100;3
+Estadio;San Fernando;T47A;8;8:15:00 p. m.;Viernes;26;1
+San Fernando;Universidades;T47A;10;2:30:00 p. m.;Sábado;24;5
+Capri;Estadio;T31;6;7:30:00 a. m.;Miércoles;21;2
+Centro;San Bosco;T50;6;1:45:00 p. m.;Viernes;80;1
+Centro;Capri;T31;15;11:00:00 a. m.;Domingo;75;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;9:30:00 p. m.;Martes;96;1
+Meléndez;Unidad Deportiva;P21A;6;9:45:00 a. m.;Lunes;22;1
+Centro;San Bosco;T50;5;2:45:00 p. m.;Sábado;43;0
+San Bosco;Centro;T50;10;10:00:00 a. m.;Jueves;57;5
+Meléndez;Universidades;P21A;4;5:30:00 a. m.;Viernes;19;0
+Universidades;San Fernando;T47A;7;10:45:00 p. m.;Jueves;98;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;10:15:00 a. m.;Viernes;48;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;7:15:00 a. m.;Sábado;19;5
+San Bosco;Centro;T50;7;9:45:00 p. m.;Jueves;54;2
+Estadio;Capri;T31;9;8:15:00 p. m.;Domingo;66;5
+San Fernando;Universidades;T47A;5;6:45:00 a. m.;Miércoles;90;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;5:15:00 a. m.;Martes;19;4
+Estadio;San Bosco;T50;8;5:00:00 p. m.;Lunes;15;2
+Terminal Andrés Sanín;Centro;E21;9;5:15:00 a. m.;Jueves;68;1
+Meléndez;Unidad Deportiva;P21A;5;9:15:00 a. m.;Miércoles;92;0
+Meléndez;Universidades;P21A;7;7:00:00 p. m.;Jueves;39;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;11:30:00 a. m.;Lunes;14;4
+Meléndez;Unidad Deportiva;P21A;7;8:45:00 p. m.;Sábado;43;2
+Meléndez;Universidades;P21A;8;5:45:00 a. m.;Sábado;54;4
+Meléndez;Unidad Deportiva;P21A;7;8:15:00 p. m.;Domingo;59;2
+Universidades;Meléndez;P21A;6;11:45:00 a. m.;Domingo;44;2
+Estadio;San Fernando;T47A;8;5:30:00 p. m.;Viernes;86;1
+San Bosco;Estadio;T50;7;1:30:00 p. m.;Domingo;57;1
+Capri;Centro;T31;14;10:45:00 a. m.;Sábado;69;4
+Capri;San Fernando;T31;6;2:00:00 p. m.;Viernes;11;0
+Capri;Estadio;T31;5;5:30:00 p. m.;Viernes;69;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;7:00:00 a. m.;Sábado;42;5
+Unidad Deportiva;Meléndez;P21A;7;11:30:00 a. m.;Sábado;100;2
+Centro;Capri;T31;12;9:45:00 a. m.;Viernes;78;2
+Meléndez;Universidades;P21A;4;2:30:00 p. m.;Viernes;81;0
+Estadio;Capri;T31;7;4:45:00 p. m.;Martes;25;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;3:00:00 p. m.;Lunes;54;4
+Universidades;San Fernando;T47A;5;2:30:00 p. m.;Lunes;96;0
+Unidad Deportiva;Meléndez;P21A;6;12:15:00 p. m.;Lunes;47;1
+Centro;Terminal Andrés Sanín;E21;8;9:15:00 p. m.;Miércoles;33;0
+Centro;San Bosco;T50;7;6:00:00 a. m.;Sábado;52;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;2:30:00 p. m.;Miércoles;57;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;1:00:00 p. m.;Miércoles;37;2
+Estadio;San Fernando;T47A;10;5:15:00 p. m.;Miércoles;38;3
+Meléndez;Universidades;P21A;9;10:45:00 p. m.;Sábado;98;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;8:15:00 p. m.;Martes;25;0
+Capri;Centro;T31;10;9:00:00 a. m.;Sábado;39;0
+San Fernando;Universidades;T47A;6;1:00:00 p. m.;Miércoles;37;1
+San Fernando;Universidades;T47A;9;7:15:00 a. m.;Lunes;53;4
+San Fernando;Estadio;T47A;10;10:45:00 a. m.;Miércoles;95;3
+San Fernando;Universidades;T47A;9;6:45:00 p. m.;Jueves;19;4
+Centro;San Bosco;T50;6;5:15:00 a. m.;Martes;99;1
+Unidad Deportiva;Meléndez;P21A;8;6:30:00 p. m.;Domingo;78;3
+Estadio;San Bosco;T50;11;10:15:00 a. m.;Jueves;65;5
+Estadio;San Fernando;T47A;8;3:15:00 p. m.;Viernes;56;1
+Estadio;San Fernando;T47A;8;4:30:00 p. m.;Viernes;26;1
+Centro;San Bosco;T50;10;9:00:00 a. m.;Viernes;78;5
+Capri;Estadio;T31;6;1:30:00 p. m.;Domingo;100;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;8:15:00 p. m.;Lunes;22;3
+Capri;Estadio;T31;4;9:45:00 a. m.;Jueves;91;0
+San Bosco;Centro;T50;5;11:00:00 a. m.;Viernes;86;0
+San Bosco;Estadio;T50;8;8:00:00 a. m.;Domingo;71;2
+Centro;Capri;T31;14;5:45:00 a. m.;Lunes;96;4
+San Bosco;Estadio;T50;10;7:00:00 p. m.;Viernes;55;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;10:30:00 p. m.;Viernes;52;0
+Capri;Estadio;T31;4;3:15:00 p. m.;Lunes;40;0
+Capri;Centro;T31;13;5:15:00 p. m.;Martes;56;3
+Unidad Deportiva;Meléndez;P21A;8;10:45:00 p. m.;Miércoles;42;3
+San Fernando;Estadio;T47A;12;1:15:00 p. m.;Sábado;92;5
+Meléndez;Unidad Deportiva;P21A;5;10:45:00 a. m.;Miércoles;93;0
+Estadio;San Fernando;T47A;10;7:00:00 p. m.;Viernes;52;3
+Estadio;Capri;T31;9;1:45:00 p. m.;Domingo;11;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;2:45:00 p. m.;Lunes;17;3
+Estadio;San Fernando;T47A;11;7:15:00 a. m.;Martes;29;4
+Centro;Capri;T31;15;8:15:00 p. m.;Domingo;11;5
+Universidades;San Fernando;T47A;10;10:45:00 a. m.;Martes;12;5
+San Fernando;Universidades;T47A;7;7:00:00 p. m.;Domingo;94;2
+San Fernando;Estadio;T47A;7;9:15:00 a. m.;Viernes;71;0
+Estadio;Capri;T31;5;10:30:00 p. m.;Sábado;88;1
+Terminal Andrés Sanín;Centro;E21;9;10:30:00 a. m.;Martes;25;1
+Universidades;Meléndez;P21A;7;12:00:00 p. m.;Sábado;63;3
+Centro;Terminal Andrés Sanín;E21;8;5:00:00 a. m.;Sábado;61;0
+Meléndez;Universidades;P21A;5;1:45:00 p. m.;Miércoles;56;1
+Universidades;San Fernando;T47A;6;8:00:00 p. m.;Jueves;79;1
+Capri;Estadio;T31;5;7:00:00 p. m.;Miércoles;64;1
+San Bosco;Estadio;T50;11;10:30:00 p. m.;Miércoles;47;5
+Capri;Estadio;T31;7;8:15:00 a. m.;Miércoles;94;3
+San Fernando;Universidades;T47A;10;6:30:00 p. m.;Lunes;24;5
+Capri;Estadio;T31;7;9:30:00 p. m.;Domingo;71;3
+Universidades;Meléndez;P21A;9;6:45:00 a. m.;Domingo;16;5
+Estadio;San Fernando;T47A;8;11:45:00 a. m.;Viernes;52;1
+San Fernando;Universidades;T47A;7;9:15:00 a. m.;Viernes;64;2
+Universidades;Meléndez;P21A;4;4:00:00 p. m.;Martes;17;0
+Estadio;Capri;T31;6;2:00:00 p. m.;Viernes;98;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;12:30:00 p. m.;Jueves;90;1
+Terminal Andrés Sanín;Centro;E21;10;8:30:00 a. m.;Viernes;43;2
+Universidades;Meléndez;P21A;7;5:00:00 p. m.;Sábado;36;3
+Estadio;San Fernando;T47A;7;1:45:00 p. m.;Lunes;39;0
+Meléndez;Universidades;P21A;9;8:15:00 p. m.;Miércoles;14;5
+San Fernando;Universidades;T47A;10;5:45:00 a. m.;Lunes;69;5
+Unidad Deportiva;Meléndez;P21A;8;12:45:00 p. m.;Miércoles;63;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;5:15:00 a. m.;Domingo;37;3
+Capri;San Fernando;T31;9;11:30:00 a. m.;Martes;68;3
+Unidad Deportiva;Meléndez;P21A;10;2:00:00 p. m.;Domingo;84;5
+San Fernando;Estadio;T47A;12;5:15:00 a. m.;Lunes;51;5
+Capri;San Fernando;T31;11;9:30:00 a. m.;Lunes;14;5
+Estadio;San Fernando;T47A;7;7:15:00 a. m.;Martes;54;0
+Terminal Andrés Sanín;Centro;E21;9;3:15:00 p. m.;Viernes;34;1
+Universidades;San Fernando;T47A;5;6:45:00 p. m.;Jueves;90;0
+Universidades;San Fernando;T47A;8;10:30:00 p. m.;Lunes;76;3
+Universidades;Meléndez;P21A;7;10:15:00 p. m.;Miércoles;67;3
+Estadio;Capri;T31;9;10:45:00 p. m.;Domingo;44;5
+Capri;Estadio;T31;6;2:30:00 p. m.;Miércoles;66;2
+San Fernando;Capri;T31;11;10:15:00 p. m.;Sábado;29;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;12:30:00 p. m.;Miércoles;10;0
+San Bosco;Centro;T50;5;8:00:00 a. m.;Viernes;45;0
+San Bosco;Centro;T50;9;10:30:00 p. m.;Lunes;56;4
+San Fernando;Universidades;T47A;6;5:00:00 p. m.;Martes;55;1
+Centro;Capri;T31;15;7:30:00 p. m.;Jueves;57;5
+Capri;Estadio;T31;4;5:00:00 p. m.;Domingo;29;0
+San Bosco;Estadio;T50;11;4:00:00 p. m.;Domingo;28;5
+Capri;Centro;T31;12;2:30:00 p. m.;Martes;97;2
+Estadio;San Fernando;T47A;8;8:00:00 p. m.;Domingo;75;1
+Centro;San Bosco;T50;7;7:45:00 p. m.;Miércoles;22;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;6:45:00 p. m.;Lunes;65;5
+Capri;San Fernando;T31;9;8:45:00 p. m.;Domingo;86;3
+Universidades;Meléndez;P21A;9;9:15:00 a. m.;Martes;94;5
+Centro;San Bosco;T50;8;6:30:00 a. m.;Martes;59;3
+Universidades;San Fernando;T47A;5;12:15:00 p. m.;Miércoles;45;0
+Capri;San Fernando;T31;8;8:45:00 a. m.;Jueves;19;2
+Capri;Centro;T31;14;9:45:00 p. m.;Viernes;35;4
+Terminal Andrés Sanín;Centro;E21;13;11:45:00 a. m.;Lunes;61;5
+Centro;Capri;T31;15;5:30:00 p. m.;Miércoles;63;5
+Meléndez;Universidades;P21A;4;6:15:00 p. m.;Viernes;12;0
+Centro;San Bosco;T50;10;10:00:00 p. m.;Viernes;73;5
+Estadio;San Fernando;T47A;8;1:15:00 p. m.;Miércoles;32;1
+Estadio;Capri;T31;6;7:30:00 a. m.;Sábado;36;2
+Estadio;San Bosco;T50;6;11:15:00 a. m.;Domingo;66;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;7:30:00 p. m.;Lunes;100;5
+Centro;Capri;T31;13;10:00:00 p. m.;Lunes;86;3
+Centro;San Bosco;T50;9;5:15:00 p. m.;Sábado;76;4
+Estadio;San Fernando;T47A;10;11:45:00 a. m.;Lunes;87;3
+San Bosco;Estadio;T50;11;7:15:00 p. m.;Miércoles;18;5
+Universidades;San Fernando;T47A;5;3:45:00 p. m.;Jueves;49;0
+Meléndez;Universidades;P21A;4;7:15:00 a. m.;Domingo;40;0
+Estadio;San Fernando;T47A;7;10:00:00 p. m.;Jueves;74;0
+San Fernando;Capri;T31;8;5:30:00 a. m.;Martes;37;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;7:30:00 p. m.;Domingo;70;0
+San Bosco;Estadio;T50;10;8:45:00 p. m.;Miércoles;18;4
+Capri;Estadio;T31;7;12:30:00 p. m.;Sábado;21;3
+San Fernando;Universidades;T47A;7;2:45:00 p. m.;Miércoles;36;2
+Capri;Estadio;T31;4;7:45:00 a. m.;Jueves;90;0
+Centro;Capri;T31;14;10:00:00 a. m.;Jueves;39;4
+San Fernando;Capri;T31;9;4:00:00 p. m.;Lunes;29;3
+San Bosco;Centro;T50;9;1:00:00 p. m.;Viernes;74;4
+Estadio;San Bosco;T50;11;12:00:00 p. m.;Jueves;49;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;2:45:00 p. m.;Martes;39;1
+Centro;Capri;T31;15;12:45:00 p. m.;Domingo;63;5
+Centro;Terminal Andrés Sanín;E21;12;8:15:00 p. m.;Sábado;82;4
+Capri;San Fernando;T31;9;8:45:00 p. m.;Lunes;56;3
+San Bosco;Centro;T50;7;9:45:00 p. m.;Martes;61;2
+Centro;Terminal Andrés Sanín;E21;13;8:45:00 a. m.;Miércoles;61;5
+Estadio;San Fernando;T47A;10;12:00:00 p. m.;Martes;78;3
+Capri;San Fernando;T31;7;2:45:00 p. m.;Viernes;77;1
+Centro;Terminal Andrés Sanín;E21;10;5:00:00 a. m.;Jueves;43;2
+Universidades;Meléndez;P21A;4;12:45:00 p. m.;Viernes;71;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;10:00:00 a. m.;Jueves;36;1
+Meléndez;Unidad Deportiva;P21A;10;8:45:00 p. m.;Viernes;74;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;7:00:00 a. m.;Viernes;52;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;7:00:00 a. m.;Martes;86;5
+Meléndez;Unidad Deportiva;P21A;6;8:15:00 p. m.;Martes;80;1
+San Fernando;Universidades;T47A;8;3:00:00 p. m.;Domingo;95;3
+San Fernando;Capri;T31;10;9:15:00 a. m.;Viernes;53;4
+Centro;San Bosco;T50;10;6:30:00 a. m.;Miércoles;80;5
+Capri;Centro;T31;13;7:30:00 a. m.;Domingo;20;3
+Estadio;Capri;T31;4;3:45:00 p. m.;Sábado;59;0
+Capri;Centro;T31;10;12:30:00 p. m.;Domingo;78;0
+Meléndez;Universidades;P21A;9;5:45:00 a. m.;Martes;78;5
+Estadio;Capri;T31;9;7:30:00 a. m.;Jueves;95;5
+Capri;Centro;T31;12;1:00:00 p. m.;Viernes;61;2
+Meléndez;Unidad Deportiva;P21A;9;7:15:00 a. m.;Miércoles;42;4
+Meléndez;Universidades;P21A;7;7:30:00 p. m.;Lunes;33;3
+Terminal Andrés Sanín;Centro;E21;8;3:45:00 p. m.;Lunes;29;0
+Centro;Capri;T31;11;4:30:00 p. m.;Lunes;30;1
+Universidades;San Fernando;T47A;5;8:45:00 a. m.;Lunes;19;0
+Capri;Estadio;T31;9;6:30:00 a. m.;Miércoles;80;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;5:15:00 a. m.;Domingo;36;2
+San Fernando;Universidades;T47A;10;7:45:00 p. m.;Domingo;18;5
+San Bosco;Centro;T50;8;7:45:00 p. m.;Sábado;38;3
+Centro;Capri;T31;12;11:00:00 a. m.;Viernes;41;2
+Meléndez;Universidades;P21A;8;5:00:00 a. m.;Sábado;54;4
+San Fernando;Capri;T31;6;7:15:00 p. m.;Sábado;40;0
+Centro;Terminal Andrés Sanín;E21;11;4:00:00 p. m.;Domingo;77;3
+Capri;San Fernando;T31;9;6:15:00 a. m.;Miércoles;39;3
+San Bosco;Centro;T50;7;1:15:00 p. m.;Domingo;24;2
+Terminal Andrés Sanín;Centro;E21;11;2:15:00 p. m.;Miércoles;68;3
+San Fernando;Estadio;T47A;10;10:45:00 a. m.;Domingo;63;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;6:30:00 p. m.;Martes;37;2
+Universidades;Meléndez;P21A;9;10:00:00 p. m.;Domingo;70;5
+San Fernando;Capri;T31;9;8:00:00 a. m.;Viernes;30;3
+Universidades;San Fernando;T47A;10;2:45:00 p. m.;Jueves;63;5
+Unidad Deportiva;Meléndez;P21A;8;8:30:00 a. m.;Sábado;86;3
+Centro;Capri;T31;10;7:30:00 a. m.;Viernes;96;0
+San Fernando;Capri;T31;8;10:15:00 a. m.;Viernes;83;2
+Meléndez;Universidades;P21A;4;5:30:00 a. m.;Lunes;15;0
+Estadio;Capri;T31;6;3:15:00 p. m.;Sábado;94;2
+Capri;Centro;T31;12;5:30:00 p. m.;Miércoles;73;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;1:45:00 p. m.;Sábado;19;3
+Estadio;San Fernando;T47A;12;5:45:00 a. m.;Martes;93;5
+San Fernando;Capri;T31;10;9:30:00 a. m.;Sábado;97;4
+Universidades;San Fernando;T47A;6;7:00:00 p. m.;Sábado;41;1
+Universidades;San Fernando;T47A;8;6:00:00 a. m.;Domingo;51;3
+San Fernando;Universidades;T47A;10;9:30:00 p. m.;Domingo;95;5
+Terminal Andrés Sanín;Centro;E21;13;10:15:00 p. m.;Viernes;62;5
+San Fernando;Estadio;T47A;10;10:15:00 p. m.;Lunes;30;3
+Meléndez;Universidades;P21A;4;7:30:00 a. m.;Lunes;27;0
+San Fernando;Estadio;T47A;8;7:30:00 p. m.;Lunes;82;1
+Meléndez;Universidades;P21A;6;7:15:00 a. m.;Lunes;32;2
+Capri;San Fernando;T31;9;7:30:00 a. m.;Martes;67;3
+Capri;Estadio;T31;8;5:00:00 p. m.;Domingo;52;4
+Capri;Estadio;T31;7;10:15:00 a. m.;Lunes;66;3
+Estadio;San Bosco;T50;8;8:00:00 p. m.;Domingo;85;2
+Meléndez;Unidad Deportiva;P21A;9;12:15:00 p. m.;Jueves;65;4
+Estadio;San Fernando;T47A;12;7:00:00 a. m.;Martes;83;5
+Meléndez;Universidades;P21A;7;3:30:00 p. m.;Sábado;85;3
+San Bosco;Centro;T50;9;5:45:00 p. m.;Martes;52;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;5:00:00 a. m.;Viernes;89;0
+Universidades;San Fernando;T47A;5;8:00:00 a. m.;Sábado;65;0
+Universidades;San Fernando;T47A;7;10:00:00 a. m.;Martes;57;2
+Centro;San Bosco;T50;5;1:45:00 p. m.;Lunes;79;0
+Capri;Centro;T31;15;9:45:00 a. m.;Jueves;27;5
+Centro;San Bosco;T50;6;9:30:00 p. m.;Miércoles;45;1
+Meléndez;Unidad Deportiva;P21A;8;11:15:00 a. m.;Viernes;72;3
+San Bosco;Estadio;T50;6;11:45:00 a. m.;Miércoles;17;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;9:30:00 a. m.;Domingo;64;0
+San Bosco;Estadio;T50;8;7:30:00 p. m.;Sábado;91;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;8:00:00 p. m.;Miércoles;45;2
+San Bosco;Centro;T50;6;2:15:00 p. m.;Lunes;48;1
+Meléndez;Unidad Deportiva;P21A;5;7:45:00 a. m.;Sábado;97;0
+Universidades;Meléndez;P21A;7;3:30:00 p. m.;Lunes;73;3
+Estadio;Capri;T31;8;10:30:00 p. m.;Lunes;35;4
+San Fernando;Universidades;T47A;5;6:00:00 p. m.;Martes;37;0
+Meléndez;Unidad Deportiva;P21A;5;10:15:00 p. m.;Jueves;92;0
+Universidades;San Fernando;T47A;8;11:30:00 a. m.;Lunes;23;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;9:00:00 a. m.;Lunes;43;3
+Terminal Andrés Sanín;Centro;E21;13;9:45:00 a. m.;Sábado;59;5
+Centro;San Bosco;T50;10;10:45:00 a. m.;Lunes;75;5
+San Fernando;Universidades;T47A;9;5:45:00 a. m.;Martes;46;4
+Universidades;Meléndez;P21A;5;7:15:00 p. m.;Domingo;56;1
+Meléndez;Universidades;P21A;9;10:15:00 a. m.;Martes;99;5
+Universidades;Meléndez;P21A;6;10:15:00 a. m.;Domingo;55;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;2:45:00 p. m.;Viernes;81;4
+San Fernando;Estadio;T47A;10;9:15:00 a. m.;Viernes;37;3
+San Fernando;Estadio;T47A;9;7:30:00 p. m.;Lunes;40;2
+Meléndez;Universidades;P21A;9;12:45:00 p. m.;Sábado;72;5
+Estadio;San Bosco;T50;11;7:15:00 a. m.;Jueves;57;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;7:15:00 a. m.;Sábado;35;0
+San Fernando;Estadio;T47A;10;3:15:00 p. m.;Martes;35;3
+Capri;San Fernando;T31;8;5:30:00 a. m.;Viernes;12;2
+Unidad Deportiva;Meléndez;P21A;9;9:45:00 a. m.;Viernes;80;4
+San Bosco;Estadio;T50;10;9:15:00 p. m.;Martes;71;4
+Estadio;Capri;T31;7;5:30:00 p. m.;Sábado;41;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;11:00:00 a. m.;Viernes;30;2
+Capri;Centro;T31;10;12:00:00 p. m.;Lunes;11;0
+Estadio;San Fernando;T47A;8;5:45:00 p. m.;Domingo;51;1
+San Fernando;Capri;T31;11;9:00:00 p. m.;Sábado;54;5
+Meléndez;Unidad Deportiva;P21A;6;6:45:00 p. m.;Jueves;79;1
+Terminal Andrés Sanín;Centro;E21;11;3:15:00 p. m.;Jueves;31;3
+San Fernando;Estadio;T47A;9;6:15:00 p. m.;Sábado;78;2
+San Bosco;Centro;T50;7;3:45:00 p. m.;Viernes;35;2
+Estadio;Capri;T31;7;6:30:00 a. m.;Jueves;53;3
+Capri;Estadio;T31;9;6:45:00 a. m.;Lunes;27;5
+San Bosco;Centro;T50;7;1:00:00 p. m.;Viernes;26;2
+Centro;Capri;T31;15;5:00:00 a. m.;Viernes;53;5
+San Fernando;Capri;T31;10;7:00:00 p. m.;Miércoles;25;4
+Terminal Andrés Sanín;Centro;E21;10;12:00:00 p. m.;Sábado;42;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;7:15:00 a. m.;Sábado;19;5
+San Fernando;Capri;T31;7;9:15:00 p. m.;Lunes;64;1
+Capri;San Fernando;T31;6;3:45:00 p. m.;Jueves;63;0
+Capri;San Fernando;T31;7;3:30:00 p. m.;Sábado;39;1
+Terminal Andrés Sanín;Centro;E21;9;11:45:00 a. m.;Lunes;70;1
+Meléndez;Universidades;P21A;9;7:30:00 p. m.;Viernes;36;5
+San Bosco;Centro;T50;9;11:30:00 a. m.;Jueves;80;4
+Estadio;Capri;T31;7;7:00:00 p. m.;Jueves;62;3
+Capri;Estadio;T31;9;12:15:00 p. m.;Miércoles;40;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;5:15:00 a. m.;Martes;35;4
+Unidad Deportiva;Meléndez;P21A;9;6:00:00 a. m.;Miércoles;60;4
+San Bosco;Centro;T50;6;3:00:00 p. m.;Lunes;15;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;6:45:00 p. m.;Lunes;44;2
+San Bosco;Estadio;T50;7;6:15:00 a. m.;Lunes;61;1
+Terminal Andrés Sanín;Centro;E21;10;8:45:00 a. m.;Miércoles;36;2
+San Bosco;Centro;T50;6;6:45:00 a. m.;Sábado;79;1
+San Bosco;Centro;T50;5;5:30:00 a. m.;Miércoles;63;0
+Meléndez;Unidad Deportiva;P21A;6;2:45:00 p. m.;Lunes;31;1
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;10:00:00 a. m.;Viernes;64;4
+Terminal Andrés Sanín;Centro;E21;8;4:30:00 p. m.;Martes;67;0
+Capri;Estadio;T31;7;8:00:00 a. m.;Martes;37;3
+Estadio;Capri;T31;8;8:45:00 p. m.;Miércoles;40;4
+Centro;San Bosco;T50;9;7:45:00 a. m.;Sábado;83;4
+Universidades;San Fernando;T47A;10;1:00:00 p. m.;Viernes;26;5
+Estadio;San Bosco;T50;11;7:45:00 a. m.;Domingo;84;5
+Capri;San Fernando;T31;9;6:45:00 p. m.;Lunes;23;3
+Centro;Capri;T31;12;7:45:00 a. m.;Jueves;39;2
+Meléndez;Unidad Deportiva;P21A;7;10:00:00 p. m.;Lunes;92;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;9:00:00 a. m.;Martes;65;2
+Unidad Deportiva;Meléndez;P21A;6;2:45:00 p. m.;Jueves;84;1
+Centro;Capri;T31;14;5:30:00 p. m.;Lunes;76;4
+San Fernando;Estadio;T47A;8;5:30:00 p. m.;Lunes;22;1
+Estadio;San Bosco;T50;6;6:00:00 a. m.;Viernes;73;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;11:45:00 a. m.;Miércoles;44;1
+Unidad Deportiva;Meléndez;P21A;9;12:15:00 p. m.;Domingo;33;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;3:45:00 p. m.;Martes;79;2
+Capri;San Fernando;T31;6;12:30:00 p. m.;Jueves;38;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;3:00:00 p. m.;Viernes;60;4
+Estadio;San Bosco;T50;7;10:45:00 p. m.;Miércoles;34;1
+Estadio;San Fernando;T47A;7;6:15:00 a. m.;Miércoles;62;0
+Centro;San Bosco;T50;5;5:00:00 p. m.;Domingo;32;0
+Centro;Capri;T31;11;6:30:00 a. m.;Lunes;44;1
+Capri;San Fernando;T31;9;11:30:00 a. m.;Jueves;94;3
+Estadio;Capri;T31;4;2:15:00 p. m.;Miércoles;26;0
+Centro;San Bosco;T50;7;8:30:00 a. m.;Domingo;11;2
+Estadio;San Bosco;T50;10;2:45:00 p. m.;Jueves;31;4
+San Fernando;Universidades;T47A;10;10:15:00 a. m.;Lunes;77;5
+Estadio;San Bosco;T50;7;8:45:00 a. m.;Martes;39;1
+San Bosco;Estadio;T50;7;8:45:00 p. m.;Domingo;56;1
+Estadio;Capri;T31;8;9:15:00 a. m.;Sábado;67;4
+San Bosco;Estadio;T50;7;5:45:00 a. m.;Viernes;35;1
+Centro;Terminal Andrés Sanín;E21;13;5:45:00 a. m.;Miércoles;68;5
+Terminal Andrés Sanín;Centro;E21;10;12:15:00 p. m.;Lunes;51;2
+San Bosco;Centro;T50;7;8:00:00 a. m.;Lunes;14;2
+San Fernando;Capri;T31;7;6:00:00 a. m.;Viernes;71;1
+Centro;Terminal Andrés Sanín;E21;8;9:45:00 p. m.;Domingo;30;0
+San Fernando;Estadio;T47A;11;7:15:00 p. m.;Domingo;46;4
+Centro;Capri;T31;12;9:30:00 p. m.;Jueves;82;2
+Universidades;San Fernando;T47A;6;1:00:00 p. m.;Martes;84;1
+San Fernando;Universidades;T47A;8;3:15:00 p. m.;Lunes;87;3
+San Fernando;Universidades;T47A;8;6:15:00 p. m.;Martes;29;3
+Universidades;Meléndez;P21A;9;5:15:00 a. m.;Jueves;61;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;11:30:00 a. m.;Domingo;19;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;8:45:00 p. m.;Miércoles;30;1
+San Bosco;Centro;T50;9;2:15:00 p. m.;Domingo;53;4
+Capri;Estadio;T31;8;1:15:00 p. m.;Domingo;100;4
+Unidad Deportiva;Meléndez;P21A;7;1:45:00 p. m.;Martes;25;2
+Unidad Deportiva;Meléndez;P21A;8;2:30:00 p. m.;Domingo;14;3
+Capri;Estadio;T31;6;6:15:00 a. m.;Sábado;94;2
+San Fernando;Estadio;T47A;8;2:30:00 p. m.;Viernes;97;1
+Estadio;Capri;T31;7;6:15:00 a. m.;Jueves;50;3
+Estadio;San Fernando;T47A;12;3:45:00 p. m.;Lunes;71;5
+San Fernando;Capri;T31;11;9:30:00 a. m.;Jueves;82;5
+San Fernando;Universidades;T47A;9;12:00:00 p. m.;Jueves;60;4
+San Fernando;Estadio;T47A;9;3:15:00 p. m.;Sábado;14;2
+Unidad Deportiva;Meléndez;P21A;9;4:45:00 p. m.;Miércoles;12;4
+San Fernando;Capri;T31;11;3:45:00 p. m.;Jueves;45;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;10:00:00 a. m.;Sábado;67;5
+San Bosco;Centro;T50;9;12:45:00 p. m.;Jueves;74;4
+San Fernando;Estadio;T47A;10;6:30:00 p. m.;Jueves;21;3
+Meléndez;Universidades;P21A;7;7:30:00 a. m.;Viernes;79;3
+Estadio;San Bosco;T50;10;8:30:00 a. m.;Martes;10;4
+Centro;Capri;T31;15;1:45:00 p. m.;Sábado;12;5
+Capri;San Fernando;T31;9;10:15:00 p. m.;Viernes;95;3
+Centro;Capri;T31;12;8:15:00 a. m.;Viernes;51;2
+Centro;San Bosco;T50;10;11:15:00 a. m.;Jueves;41;5
+San Fernando;Capri;T31;6;4:15:00 p. m.;Martes;26;0
+Unidad Deportiva;Meléndez;P21A;9;12:45:00 p. m.;Martes;71;4
+Centro;San Bosco;T50;6;7:00:00 p. m.;Jueves;66;1
+Universidades;Meléndez;P21A;4;9:30:00 a. m.;Domingo;27;0
+Centro;Capri;T31;13;12:30:00 p. m.;Viernes;98;3
+Capri;Estadio;T31;7;10:15:00 a. m.;Jueves;95;3
+Centro;Terminal Andrés Sanín;E21;11;9:45:00 p. m.;Viernes;23;3
+Estadio;San Fernando;T47A;7;10:15:00 a. m.;Domingo;58;0
+Meléndez;Universidades;P21A;9;7:15:00 p. m.;Domingo;97;5
+Centro;Terminal Andrés Sanín;E21;13;6:45:00 a. m.;Lunes;41;5
+San Fernando;Capri;T31;9;10:45:00 p. m.;Viernes;60;3
+Unidad Deportiva;Meléndez;P21A;10;4:00:00 p. m.;Lunes;22;5
+Capri;Centro;T31;12;9:30:00 a. m.;Sábado;98;2
+Terminal Andrés Sanín;Centro;E21;9;7:45:00 a. m.;Domingo;21;1
+Estadio;Capri;T31;4;4:30:00 p. m.;Lunes;42;0
+San Bosco;Estadio;T50;9;10:15:00 p. m.;Lunes;91;3
+San Bosco;Estadio;T50;7;8:15:00 a. m.;Jueves;43;1
+Meléndez;Unidad Deportiva;P21A;6;4:30:00 p. m.;Miércoles;80;1
+Centro;Terminal Andrés Sanín;E21;11;7:30:00 p. m.;Viernes;23;3
+Terminal Andrés Sanín;Centro;E21;13;11:15:00 a. m.;Jueves;70;5
+San Bosco;Centro;T50;6;9:15:00 a. m.;Jueves;59;1
+Capri;Estadio;T31;4;8:00:00 p. m.;Miércoles;52;0
+Capri;Estadio;T31;6;10:00:00 p. m.;Domingo;66;2
+Capri;San Fernando;T31;6;7:00:00 p. m.;Sábado;98;0
+Estadio;San Bosco;T50;9;9:45:00 p. m.;Miércoles;72;3
+Centro;Terminal Andrés Sanín;E21;11;6:30:00 a. m.;Viernes;17;3
+San Bosco;Estadio;T50;10;5:30:00 p. m.;Miércoles;13;4
+Centro;San Bosco;T50;7;5:45:00 a. m.;Lunes;50;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;5:45:00 a. m.;Martes;41;2
+Terminal Andrés Sanín;Centro;E21;11;7:15:00 p. m.;Lunes;62;3
+San Fernando;Estadio;T47A;7;2:15:00 p. m.;Domingo;91;0
+Unidad Deportiva;Meléndez;P21A;7;7:30:00 a. m.;Lunes;65;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;10:00:00 p. m.;Jueves;37;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;11:00:00 a. m.;Domingo;17;5
+Centro;San Bosco;T50;7;1:45:00 p. m.;Martes;75;2
+Meléndez;Unidad Deportiva;P21A;6;9:30:00 a. m.;Martes;49;1
+San Bosco;Centro;T50;7;5:30:00 a. m.;Sábado;38;2
+Capri;San Fernando;T31;7;10:45:00 a. m.;Jueves;70;1
+San Fernando;Universidades;T47A;8;8:30:00 p. m.;Sábado;60;3
+Capri;Centro;T31;13;1:45:00 p. m.;Lunes;81;3
+Meléndez;Universidades;P21A;6;10:30:00 p. m.;Jueves;78;2
+San Fernando;Universidades;T47A;8;6:15:00 p. m.;Martes;15;3
+Estadio;San Fernando;T47A;8;9:15:00 a. m.;Jueves;91;1
+Estadio;Capri;T31;5;4:45:00 p. m.;Viernes;55;1
+Centro;San Bosco;T50;8;7:45:00 p. m.;Domingo;50;3
+San Fernando;Capri;T31;9;7:30:00 a. m.;Jueves;29;3
+Centro;Capri;T31;12;10:00:00 a. m.;Viernes;84;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;6:15:00 a. m.;Martes;51;3
+Capri;San Fernando;T31;8;5:45:00 p. m.;Jueves;41;2
+Estadio;San Fernando;T47A;8;11:45:00 a. m.;Sábado;32;1
+Estadio;Capri;T31;8;4:15:00 p. m.;Lunes;29;4
+San Bosco;Estadio;T50;6;10:30:00 p. m.;Viernes;46;0
+Meléndez;Unidad Deportiva;P21A;7;6:15:00 a. m.;Lunes;98;2
+Terminal Andrés Sanín;Centro;E21;11;8:15:00 p. m.;Martes;38;3
+Estadio;Capri;T31;9;3:30:00 p. m.;Martes;23;5
+San Bosco;Centro;T50;6;8:30:00 p. m.;Miércoles;94;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;5:00:00 p. m.;Sábado;33;2
+Estadio;San Bosco;T50;7;10:45:00 p. m.;Sábado;82;1
+Universidades;San Fernando;T47A;10;5:00:00 p. m.;Martes;16;5
+Capri;San Fernando;T31;8;12:45:00 p. m.;Domingo;42;2
+San Bosco;Estadio;T50;6;7:30:00 a. m.;Domingo;64;0
+San Fernando;Capri;T31;7;11:15:00 a. m.;Domingo;97;1
+Estadio;San Fernando;T47A;7;10:00:00 a. m.;Viernes;50;0
+Terminal Andrés Sanín;Centro;E21;9;9:45:00 a. m.;Viernes;19;1
+Centro;Terminal Andrés Sanín;E21;12;2:45:00 p. m.;Jueves;85;4
+Estadio;San Bosco;T50;9;4:15:00 p. m.;Domingo;50;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;10:00:00 a. m.;Martes;77;0
+San Fernando;Universidades;T47A;7;12:15:00 p. m.;Jueves;45;2
+Capri;Centro;T31;10;12:45:00 p. m.;Miércoles;29;0
+Capri;Estadio;T31;9;8:00:00 a. m.;Sábado;20;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;7:45:00 a. m.;Jueves;44;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;9:00:00 p. m.;Martes;85;5
+San Bosco;Estadio;T50;9;2:00:00 p. m.;Lunes;90;3
+San Bosco;Centro;T50;7;9:30:00 a. m.;Jueves;71;2
+Centro;Capri;T31;11;9:45:00 p. m.;Martes;68;1
+Centro;Capri;T31;13;11:00:00 a. m.;Sábado;52;3
+Centro;Terminal Andrés Sanín;E21;8;8:30:00 p. m.;Miércoles;59;0
+Estadio;San Bosco;T50;7;12:30:00 p. m.;Domingo;78;1
+Estadio;San Fernando;T47A;7;9:45:00 p. m.;Viernes;86;0
+San Fernando;Universidades;T47A;8;9:30:00 a. m.;Sábado;32;3
+Estadio;Capri;T31;8;1:30:00 p. m.;Sábado;21;4
+Centro;San Bosco;T50;6;3:30:00 p. m.;Lunes;53;1
+Unidad Deportiva;Meléndez;P21A;10;8:45:00 a. m.;Miércoles;100;5
+Capri;Centro;T31;12;9:00:00 a. m.;Martes;96;2
+Estadio;Capri;T31;8;8:30:00 a. m.;Martes;71;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;4:00:00 p. m.;Viernes;68;3
+Universidades;Meléndez;P21A;8;2:30:00 p. m.;Sábado;62;4
+San Fernando;Estadio;T47A;10;7:30:00 a. m.;Sábado;24;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;8:30:00 a. m.;Lunes;39;0
+Centro;Terminal Andrés Sanín;E21;8;10:30:00 a. m.;Martes;56;0
+Universidades;San Fernando;T47A;10;4:45:00 p. m.;Lunes;96;5
+Unidad Deportiva;Meléndez;P21A;7;7:45:00 a. m.;Domingo;99;2
+Centro;San Bosco;T50;8;8:00:00 a. m.;Martes;89;3
+Capri;San Fernando;T31;7;11:00:00 a. m.;Domingo;100;1
+Meléndez;Unidad Deportiva;P21A;9;6:45:00 p. m.;Miércoles;47;4
+Estadio;San Bosco;T50;8;10:30:00 a. m.;Domingo;75;2
+Universidades;San Fernando;T47A;6;5:45:00 p. m.;Domingo;23;1
+Estadio;San Bosco;T50;6;5:00:00 a. m.;Lunes;68;0
+Terminal Andrés Sanín;Centro;E21;12;8:00:00 a. m.;Martes;44;4
+Estadio;Capri;T31;8;1:00:00 p. m.;Domingo;40;4
+San Fernando;Capri;T31;6;3:45:00 p. m.;Viernes;94;0
+Centro;San Bosco;T50;6;6:30:00 p. m.;Sábado;21;1
+Centro;Capri;T31;11;5:15:00 p. m.;Jueves;55;1
+San Fernando;Estadio;T47A;9;7:15:00 a. m.;Domingo;85;2
+Estadio;San Bosco;T50;8;10:30:00 p. m.;Jueves;18;2
+Capri;Centro;T31;15;6:15:00 p. m.;Martes;22;5
+Centro;San Bosco;T50;6;7:00:00 p. m.;Sábado;55;1
+Estadio;San Bosco;T50;7;6:00:00 a. m.;Jueves;93;1
+Meléndez;Unidad Deportiva;P21A;5;7:00:00 p. m.;Sábado;21;0
+Capri;Estadio;T31;6;3:30:00 p. m.;Lunes;15;2
+Centro;Terminal Andrés Sanín;E21;13;4:15:00 p. m.;Domingo;87;5
+Centro;San Bosco;T50;10;10:15:00 a. m.;Miércoles;72;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;4:30:00 p. m.;Viernes;73;0
+Capri;Estadio;T31;6;8:00:00 a. m.;Lunes;87;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;9:30:00 p. m.;Sábado;49;3
+Meléndez;Universidades;P21A;4;12:15:00 p. m.;Sábado;56;0
+Terminal Andrés Sanín;Centro;E21;12;10:45:00 a. m.;Martes;80;4
+Capri;Centro;T31;15;8:30:00 a. m.;Domingo;69;5
+San Bosco;Estadio;T50;8;7:15:00 p. m.;Miércoles;72;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;11:15:00 a. m.;Lunes;49;0
+San Fernando;Universidades;T47A;7;11:15:00 a. m.;Viernes;70;2
+Terminal Andrés Sanín;Centro;E21;12;6:45:00 a. m.;Miércoles;85;4
+Capri;Centro;T31;11;7:30:00 a. m.;Jueves;70;1
+Capri;San Fernando;T31;7;12:00:00 p. m.;Sábado;71;1
+Estadio;San Fernando;T47A;8;7:45:00 p. m.;Viernes;36;1
+Capri;San Fernando;T31;7;7:45:00 a. m.;Miércoles;83;1
+Estadio;San Bosco;T50;9;5:30:00 p. m.;Martes;90;3
+Estadio;San Bosco;T50;10;8:30:00 p. m.;Miércoles;53;4
+San Fernando;Universidades;T47A;10;2:30:00 p. m.;Viernes;93;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;1:00:00 p. m.;Jueves;94;1
+San Fernando;Capri;T31;8;2:30:00 p. m.;Lunes;89;2
+Meléndez;Unidad Deportiva;P21A;9;2:00:00 p. m.;Jueves;53;4
+Meléndez;Universidades;P21A;7;6:00:00 p. m.;Domingo;64;3
+Terminal Andrés Sanín;Centro;E21;8;5:15:00 a. m.;Lunes;48;0
+San Fernando;Capri;T31;7;10:15:00 p. m.;Jueves;31;1
+Centro;San Bosco;T50;6;10:30:00 p. m.;Lunes;85;1
+Estadio;Capri;T31;9;7:00:00 a. m.;Miércoles;33;5
+Capri;Centro;T31;11;9:30:00 p. m.;Miércoles;40;1
+Unidad Deportiva;Meléndez;P21A;5;11:15:00 a. m.;Martes;94;0
+Estadio;San Bosco;T50;10;4:45:00 p. m.;Domingo;52;4
+Centro;San Bosco;T50;5;4:45:00 p. m.;Sábado;65;0
+Centro;Terminal Andrés Sanín;E21;12;7:15:00 p. m.;Miércoles;47;4
+Terminal Andrés Sanín;Centro;E21;12;2:30:00 p. m.;Martes;29;4
+Estadio;Capri;T31;9;10:00:00 a. m.;Domingo;77;5
+Meléndez;Unidad Deportiva;P21A;7;10:45:00 p. m.;Viernes;64;2
+Capri;Centro;T31;15;2:00:00 p. m.;Domingo;99;5
+Terminal Andrés Sanín;Centro;E21;11;12:30:00 p. m.;Miércoles;96;3
+Estadio;Capri;T31;5;1:30:00 p. m.;Jueves;10;1
+Centro;Capri;T31;11;6:45:00 p. m.;Sábado;33;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;8:00:00 a. m.;Miércoles;89;5
+Meléndez;Universidades;P21A;8;2:30:00 p. m.;Miércoles;62;4
+Centro;San Bosco;T50;9;8:30:00 p. m.;Viernes;21;4
+Meléndez;Universidades;P21A;8;11:30:00 a. m.;Domingo;18;4
+Centro;Capri;T31;11;7:45:00 a. m.;Lunes;12;1
+Capri;Estadio;T31;6;7:15:00 a. m.;Domingo;89;2
+Unidad Deportiva;Meléndez;P21A;10;8:30:00 a. m.;Lunes;41;5
+Centro;San Bosco;T50;10;7:00:00 p. m.;Jueves;61;5
+Meléndez;Universidades;P21A;6;10:00:00 a. m.;Domingo;47;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;9:00:00 a. m.;Jueves;34;1
+Centro;San Bosco;T50;10;5:00:00 a. m.;Viernes;22;5
+Capri;Centro;T31;15;12:00:00 p. m.;Martes;98;5
+Unidad Deportiva;Meléndez;P21A;7;7:30:00 a. m.;Miércoles;43;2
+San Fernando;Capri;T31;6;3:30:00 p. m.;Martes;37;0
+Centro;Capri;T31;11;6:00:00 a. m.;Domingo;59;1
+Capri;San Fernando;T31;8;6:15:00 a. m.;Sábado;26;2
+San Fernando;Capri;T31;10;10:45:00 p. m.;Jueves;43;4
+Centro;San Bosco;T50;8;9:30:00 p. m.;Martes;36;3
+San Fernando;Estadio;T47A;9;7:15:00 p. m.;Miércoles;28;2
+Centro;Capri;T31;10;9:00:00 p. m.;Lunes;71;0
+Estadio;San Fernando;T47A;10;7:15:00 p. m.;Martes;35;3
+Centro;Capri;T31;13;7:00:00 p. m.;Miércoles;100;3
+Capri;San Fernando;T31;7;9:45:00 p. m.;Martes;72;1
+Capri;San Fernando;T31;11;12:30:00 p. m.;Martes;36;5
+Estadio;Capri;T31;8;9:00:00 p. m.;Sábado;50;4
+San Fernando;Estadio;T47A;8;9:30:00 a. m.;Sábado;23;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;6:15:00 p. m.;Sábado;16;3
+San Fernando;Estadio;T47A;11;6:45:00 a. m.;Martes;46;4
+Meléndez;Universidades;P21A;8;1:00:00 p. m.;Lunes;87;4
+Centro;Terminal Andrés Sanín;E21;8;9:00:00 p. m.;Sábado;35;0
+Capri;Estadio;T31;5;2:15:00 p. m.;Viernes;48;1
+Meléndez;Universidades;P21A;7;6:00:00 p. m.;Domingo;68;3
+Estadio;Capri;T31;9;6:45:00 p. m.;Domingo;73;5
+San Bosco;Centro;T50;10;10:15:00 p. m.;Lunes;51;5
+San Fernando;Universidades;T47A;5;7:15:00 a. m.;Miércoles;91;0
+Meléndez;Universidades;P21A;8;5:00:00 a. m.;Lunes;33;4
+Terminal Andrés Sanín;Centro;E21;13;3:00:00 p. m.;Jueves;30;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;10:00:00 a. m.;Miércoles;81;3
+San Fernando;Capri;T31;7;7:30:00 a. m.;Martes;48;1
+San Bosco;Estadio;T50;7;6:15:00 p. m.;Miércoles;46;1
+Unidad Deportiva;Meléndez;P21A;6;7:15:00 p. m.;Lunes;66;1
+Estadio;Capri;T31;9;5:00:00 a. m.;Lunes;29;5
+San Bosco;Estadio;T50;10;8:15:00 a. m.;Jueves;56;4
+San Bosco;Centro;T50;7;5:15:00 a. m.;Martes;60;2
+Capri;San Fernando;T31;10;6:30:00 a. m.;Domingo;94;4
+Unidad Deportiva;Meléndez;P21A;8;3:15:00 p. m.;Miércoles;93;3
+San Fernando;Capri;T31;10;7:00:00 a. m.;Jueves;78;4
+Centro;Terminal Andrés Sanín;E21;12;12:30:00 p. m.;Lunes;99;4
+Centro;Terminal Andrés Sanín;E21;13;11:00:00 a. m.;Domingo;55;5
+Capri;San Fernando;T31;8;4:30:00 p. m.;Sábado;85;2
+San Fernando;Estadio;T47A;10;8:45:00 p. m.;Lunes;83;3
+Centro;Terminal Andrés Sanín;E21;10;2:45:00 p. m.;Viernes;18;2
+San Bosco;Estadio;T50;9;10:30:00 a. m.;Lunes;83;3
+Unidad Deportiva;Meléndez;P21A;9;1:30:00 p. m.;Lunes;85;4
+Estadio;San Fernando;T47A;10;10:15:00 a. m.;Martes;74;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;11:30:00 a. m.;Domingo;72;5
+Centro;Capri;T31;10;5:45:00 a. m.;Jueves;74;0
+Meléndez;Universidades;P21A;4;10:45:00 a. m.;Viernes;49;0
+Universidades;San Fernando;T47A;9;7:45:00 a. m.;Sábado;78;4
+Capri;Estadio;T31;7;7:15:00 p. m.;Domingo;16;3
+Estadio;Capri;T31;7;4:00:00 p. m.;Miércoles;74;3
+Universidades;San Fernando;T47A;5;9:45:00 p. m.;Lunes;17;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;4:45:00 p. m.;Martes;39;2
+Unidad Deportiva;Meléndez;P21A;5;10:15:00 a. m.;Sábado;68;0
+Centro;San Bosco;T50;5;10:15:00 p. m.;Jueves;64;0
+Meléndez;Unidad Deportiva;P21A;7;11:15:00 a. m.;Miércoles;66;2
+Centro;San Bosco;T50;7;2:00:00 p. m.;Miércoles;88;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;4:15:00 p. m.;Lunes;28;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;15;10:45:00 p. m.;Jueves;51;0
+San Bosco;Estadio;T50;11;4:00:00 p. m.;Lunes;13;5
+Capri;Centro;T31;10;8:45:00 a. m.;Viernes;15;0
+Centro;Terminal Andrés Sanín;E21;12;7:15:00 p. m.;Martes;10;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;5:45:00 p. m.;Martes;20;2
+San Bosco;Estadio;T50;7;9:15:00 a. m.;Domingo;36;1
+San Fernando;Capri;T31;7;11:30:00 a. m.;Martes;39;1
+San Fernando;Capri;T31;9;7:45:00 p. m.;Lunes;47;3
+San Bosco;Estadio;T50;10;4:00:00 p. m.;Jueves;95;4
+Estadio;San Bosco;T50;6;5:30:00 p. m.;Sábado;99;0
+Centro;San Bosco;T50;9;8:15:00 a. m.;Viernes;89;4
+Centro;San Bosco;T50;8;2:30:00 p. m.;Viernes;37;3
+San Fernando;Estadio;T47A;11;6:15:00 a. m.;Miércoles;40;4
+San Bosco;Centro;T50;10;8:15:00 a. m.;Viernes;65;5
+San Fernando;Universidades;T47A;9;6:00:00 a. m.;Viernes;33;4
+Centro;Capri;T31;13;10:45:00 a. m.;Miércoles;86;3
+Estadio;Capri;T31;5;10:15:00 a. m.;Jueves;71;1
+Meléndez;Unidad Deportiva;P21A;7;1:15:00 p. m.;Lunes;26;2
+Estadio;Capri;T31;6;11:45:00 a. m.;Lunes;18;2
+Centro;San Bosco;T50;8;5:30:00 p. m.;Miércoles;41;3
+Universidades;San Fernando;T47A;7;10:45:00 a. m.;Viernes;42;2
+Capri;Centro;T31;10;10:00:00 p. m.;Martes;81;0
+Universidades;San Fernando;T47A;9;6:15:00 a. m.;Miércoles;44;4
+Centro;Capri;T31;15;6:15:00 a. m.;Lunes;63;5
+Centro;Terminal Andrés Sanín;E21;13;12:15:00 p. m.;Sábado;45;5
+Centro;San Bosco;T50;8;3:30:00 p. m.;Martes;55;3
+Terminal Andrés Sanín;Centro;E21;13;11:00:00 a. m.;Viernes;71;5
+San Fernando;Estadio;T47A;11;8:30:00 p. m.;Sábado;52;4
+San Fernando;Estadio;T47A;8;2:00:00 p. m.;Sábado;37;1
+Terminal Andrés Sanín;Centro;E21;13;7:15:00 p. m.;Lunes;97;5
+Universidades;Meléndez;P21A;6;6:45:00 a. m.;Martes;49;2
+Centro;San Bosco;T50;10;3:30:00 p. m.;Lunes;71;5
+Centro;San Bosco;T50;5;8:30:00 a. m.;Miércoles;46;0
+San Bosco;Estadio;T50;9;8:00:00 a. m.;Lunes;30;3
+San Fernando;Estadio;T47A;8;7:00:00 a. m.;Miércoles;64;1
+San Fernando;Universidades;T47A;6;8:45:00 a. m.;Domingo;83;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;11:00:00 a. m.;Domingo;87;1
+Universidades;Meléndez;P21A;4;11:30:00 a. m.;Sábado;78;0
+Capri;San Fernando;T31;10;8:45:00 a. m.;Sábado;72;4
+Estadio;Capri;T31;9;5:45:00 a. m.;Lunes;77;5
+Meléndez;Unidad Deportiva;P21A;9;7:00:00 a. m.;Viernes;40;4
+San Bosco;Estadio;T50;11;7:30:00 p. m.;Viernes;33;5
+Unidad Deportiva;Meléndez;P21A;8;6:00:00 a. m.;Martes;74;3
+Estadio;San Bosco;T50;9;8:45:00 a. m.;Martes;32;3
+San Fernando;Universidades;T47A;6;6:30:00 a. m.;Miércoles;95;1
+Universidades;Meléndez;P21A;7;4:00:00 p. m.;Lunes;12;3
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;9:00:00 p. m.;Jueves;82;2
+Centro;Capri;T31;13;12:45:00 p. m.;Sábado;18;3
+Centro;San Bosco;T50;5;5:30:00 a. m.;Martes;95;0
+Meléndez;Unidad Deportiva;P21A;6;7:30:00 a. m.;Martes;11;1
+Unidad Deportiva;Meléndez;P21A;5;3:45:00 p. m.;Miércoles;84;0
+Universidades;Meléndez;P21A;5;1:15:00 p. m.;Miércoles;77;1
+San Fernando;Capri;T31;10;2:30:00 p. m.;Sábado;100;4
+Capri;San Fernando;T31;9;6:15:00 p. m.;Lunes;82;3
+Centro;Capri;T31;14;1:00:00 p. m.;Miércoles;85;4
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;19;7:45:00 p. m.;Domingo;22;4
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;10:45:00 p. m.;Jueves;67;1
+Terminal Andrés Sanín;Centro;E21;13;7:00:00 a. m.;Miércoles;44;5
+Capri;Centro;T31;10;1:30:00 p. m.;Martes;31;0
+Estadio;San Fernando;T47A;8;9:30:00 a. m.;Martes;74;1
+Meléndez;Unidad Deportiva;P21A;9;5:45:00 a. m.;Viernes;48;4
+San Fernando;Capri;T31;10;12:00:00 p. m.;Miércoles;54;4
+Capri;San Fernando;T31;6;6:45:00 p. m.;Sábado;89;0
+Centro;Capri;T31;12;9:30:00 p. m.;Lunes;70;2
+San Fernando;Estadio;T47A;10;7:00:00 a. m.;Martes;63;3
+Meléndez;Unidad Deportiva;P21A;7;12:15:00 p. m.;Sábado;25;2
+San Fernando;Capri;T31;8;4:45:00 p. m.;Martes;48;2
+Centro;San Bosco;T50;7;8:30:00 a. m.;Sábado;61;2
+Estadio;San Bosco;T50;6;5:45:00 a. m.;Sábado;89;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;6:00:00 p. m.;Domingo;52;3
+Centro;Capri;T31;14;1:45:00 p. m.;Lunes;74;4
+Estadio;San Fernando;T47A;8;8:45:00 p. m.;Sábado;89;1
+Estadio;Capri;T31;9;6:00:00 a. m.;Miércoles;65;5
+Estadio;San Fernando;T47A;12;10:45:00 p. m.;Miércoles;10;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;9:15:00 a. m.;Lunes;52;5
+San Fernando;Capri;T31;11;10:45:00 a. m.;Martes;16;5
+Terminal Andrés Sanín;Centro;E21;12;8:45:00 a. m.;Miércoles;69;4
+Estadio;San Fernando;T47A;7;12:45:00 p. m.;Martes;17;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;18;10:00:00 a. m.;Viernes;66;3
+Capri;Estadio;T31;6;3:15:00 p. m.;Miércoles;81;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;18;5:15:00 p. m.;Martes;84;3
+San Fernando;Capri;T31;6;6:00:00 p. m.;Viernes;55;0
+San Fernando;Estadio;T47A;11;10:30:00 a. m.;Miércoles;46;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;16;2:15:00 p. m.;Domingo;21;1
+Capri;Estadio;T31;4;7:15:00 a. m.;Miércoles;98;0
+Centro;Capri;T31;13;5:15:00 p. m.;Jueves;46;3
+Universidades;San Fernando;T47A;6;9:30:00 p. m.;Lunes;40;1
+Centro;Terminal Andrés Sanín;E21;9;11:45:00 a. m.;Lunes;40;1
+Universidades;San Fernando;T47A;8;6:45:00 a. m.;Miércoles;88;3
+Capri;San Fernando;T31;6;12:45:00 p. m.;Domingo;72;0
+Unidad Deportiva;Meléndez;P21A;8;2:30:00 p. m.;Miércoles;29;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;10:30:00 p. m.;Sábado;96;0
+Unidad Deportiva;Meléndez;P21A;5;11:15:00 a. m.;Lunes;53;0
+Centro;Capri;T31;10;9:15:00 a. m.;Lunes;68;0
+Capri;Centro;T31;12;9:15:00 a. m.;Sábado;81;2
+Meléndez;Universidades;P21A;5;6:45:00 a. m.;Viernes;10;1
+Capri;San Fernando;T31;10;6:15:00 a. m.;Lunes;10;4
+Estadio;Capri;T31;9;7:15:00 a. m.;Miércoles;38;5
+Meléndez;Universidades;P21A;9;3:45:00 p. m.;Jueves;19;5
+Centro;Terminal Andrés Sanín;E21;11;9:30:00 a. m.;Miércoles;87;3
+Meléndez;Universidades;P21A;5;12:00:00 p. m.;Viernes;12;1
+Estadio;Capri;T31;7;2:30:00 p. m.;Sábado;35;3
+Centro;Capri;T31;11;9:45:00 p. m.;Lunes;73;1
+Universidades;San Fernando;T47A;10;7:30:00 p. m.;Martes;49;5
+Capri;Estadio;T31;9;8:00:00 a. m.;Domingo;92;5
+Terminal Andrés Sanín;Centro;E21;10;9:00:00 p. m.;Jueves;65;2
+Meléndez;Unidad Deportiva;P21A;6;1:15:00 p. m.;Sábado;16;1
+Capri;Centro;T31;10;10:15:00 p. m.;Domingo;49;0
+Capri;Estadio;T31;9;8:30:00 p. m.;Viernes;44;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;6:00:00 a. m.;Jueves;91;4
+Centro;San Bosco;T50;7;9:45:00 a. m.;Martes;51;2
+Terminal Andrés Sanín;Centro;E21;12;7:30:00 a. m.;Lunes;14;4
+Centro;San Bosco;T50;9;5:30:00 p. m.;Viernes;83;4
+Universidades;San Fernando;T47A;6;10:45:00 a. m.;Viernes;79;1
+Meléndez;Unidad Deportiva;P21A;9;9:30:00 a. m.;Martes;71;4
+Meléndez;Unidad Deportiva;P21A;6;6:15:00 a. m.;Jueves;54;1
+Estadio;Capri;T31;5;7:30:00 p. m.;Viernes;54;1
+Estadio;San Fernando;T47A;9;6:30:00 a. m.;Martes;71;2
+Capri;Centro;T31;11;2:30:00 p. m.;Sábado;18;1
+Capri;Centro;T31;11;6:30:00 p. m.;Martes;62;1
+San Fernando;Capri;T31;11;10:30:00 p. m.;Lunes;82;5
+San Fernando;Capri;T31;11;10:00:00 p. m.;Martes;83;5
+Meléndez;Universidades;P21A;4;9:00:00 p. m.;Sábado;29;0
+Estadio;San Bosco;T50;10;4:30:00 p. m.;Miércoles;94;4
+San Fernando;Universidades;T47A;5;10:00:00 a. m.;Jueves;19;0
+San Fernando;Universidades;T47A;5;10:00:00 a. m.;Sábado;14;0
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;8:15:00 p. m.;Jueves;57;1
+Capri;Estadio;T31;9;9:45:00 p. m.;Jueves;49;5
+Centro;Terminal Andrés Sanín;E21;12;11:00:00 a. m.;Lunes;32;4
+Capri;Centro;T31;14;5:30:00 p. m.;Domingo;60;4
+Unidad Deportiva;Meléndez;P21A;9;9:30:00 a. m.;Jueves;25;4
+Capri;Centro;T31;13;5:45:00 p. m.;Lunes;65;3
+San Fernando;Estadio;T47A;11;8:45:00 p. m.;Miércoles;69;4
+Unidad Deportiva;Meléndez;P21A;5;12:30:00 p. m.;Domingo;82;0
+Meléndez;Unidad Deportiva;P21A;9;9:00:00 p. m.;Lunes;25;4
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;20;2:00:00 p. m.;Martes;91;5
+San Bosco;Centro;T50;5;7:15:00 a. m.;Viernes;97;0
+Meléndez;Universidades;P21A;5;6:00:00 p. m.;Sábado;49;1
+Estadio;San Fernando;T47A;10;9:45:00 a. m.;Jueves;74;3
+Estadio;San Bosco;T50;7;12:30:00 p. m.;Sábado;27;1
+Estadio;San Fernando;T47A;9;5:30:00 p. m.;Jueves;82;2
+Universidades;San Fernando;T47A;8;11:30:00 a. m.;Lunes;12;3
+San Fernando;Estadio;T47A;8;5:15:00 a. m.;Martes;81;1
+Estadio;Capri;T31;7;5:30:00 p. m.;Jueves;78;3
+Capri;Estadio;T31;6;10:15:00 p. m.;Sábado;34;2
+San Fernando;Capri;T31;8;9:15:00 p. m.;Lunes;51;2
+Terminal Andrés Sanín;Centro;E21;11;5:45:00 p. m.;Martes;32;3
+San Fernando;Capri;T31;7;1:15:00 p. m.;Sábado;83;1
+San Fernando;Capri;T31;7;8:30:00 a. m.;Viernes;57;1
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;17;3:00:00 p. m.;Lunes;37;2
+Centro;San Bosco;T50;6;8:30:00 p. m.;Jueves;56;1
+San Fernando;Capri;T31;6;10:00:00 a. m.;Jueves;41;0
+Unidad Deportiva;Meléndez;P21A;8;5:00:00 p. m.;Miércoles;97;3
+Estadio;San Bosco;T50;6;4:15:00 p. m.;Domingo;87;0
+Meléndez;Unidad Deportiva;P21A;8;8:15:00 p. m.;Miércoles;32;3
+Meléndez;Universidades;P21A;7;10:30:00 p. m.;Lunes;95;3
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;16;3:15:00 p. m.;Sábado;39;1
+San Bosco;Estadio;T50;10;3:30:00 p. m.;Domingo;48;4
+Estadio;Capri;T31;4;2:00:00 p. m.;Miércoles;85;0
+Estadio;San Fernando;T47A;10;10:45:00 p. m.;Martes;66;3
+San Fernando;Universidades;T47A;5;12:00:00 p. m.;Viernes;35;0
+Capri;Centro;T31;15;12:30:00 p. m.;Viernes;51;5
+Capri;Estadio;T31;9;10:15:00 p. m.;Viernes;29;5
+Estadio;San Fernando;T47A;8;7:45:00 a. m.;Domingo;34;1
+Unidad Deportiva;Meléndez;P21A;8;2:15:00 p. m.;Miércoles;19;3
+Estadio;San Fernando;T47A;10;1:45:00 p. m.;Viernes;47;3
+Capri;Centro;T31;12;4:15:00 p. m.;Domingo;21;2
+San Bosco;Centro;T50;10;2:45:00 p. m.;Jueves;66;5
+Capri;San Fernando;T31;7;3:45:00 p. m.;Jueves;11;1
+Unidad Deportiva;Meléndez;P21A;7;10:30:00 p. m.;Domingo;27;2
+Unidad Deportiva;Meléndez;P21A;8;11:30:00 a. m.;Martes;29;3
+Unidad Deportiva;Meléndez;P21A;6;8:30:00 p. m.;Lunes;18;1
+San Fernando;Universidades;T47A;6;3:30:00 p. m.;Sábado;51;1
+Estadio;Capri;T31;9;6:30:00 p. m.;Viernes;11;5
+Centro;Terminal Andrés Sanín;E21;8;5:15:00 p. m.;Miércoles;88;0
+Meléndez;Universidades;P21A;4;9:30:00 a. m.;Lunes;88;0
+Meléndez;Unidad Deportiva;P21A;10;9:15:00 a. m.;Domingo;14;5
+Capri;Estadio;T31;9;9:45:00 p. m.;Domingo;66;5
+Capri;Centro;T31;11;10:45:00 a. m.;Viernes;67;1
+Centro;San Bosco;T50;9;4:45:00 p. m.;Domingo;98;4
+Universidades;Meléndez;P21A;8;11:30:00 a. m.;Miércoles;68;4
+Unidad Deportiva;Meléndez;P21A;7;9:15:00 a. m.;Martes;21;2
+Estadio;Capri;T31;6;2:30:00 p. m.;Lunes;87;2
+Unidad Deportiva;Meléndez;P21A;9;6:15:00 a. m.;Sábado;53;4
+Centro;Capri;T31;15;9:00:00 p. m.;Sábado;30;5
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;19;9:30:00 p. m.;Miércoles;45;4
+Capri;San Fernando;T31;8;7:00:00 a. m.;Miércoles;33;2
+San Bosco;Estadio;T50;7;5:15:00 a. m.;Viernes;51;1
+Estadio;Capri;T31;6;3:45:00 p. m.;Miércoles;100;2
+Capri;Centro;T31;12;10:30:00 a. m.;Lunes;26;2
+San Bosco;Centro;T50;5;12:30:00 p. m.;Domingo;12;0
+Centro;San Bosco;T50;9;10:00:00 a. m.;Domingo;84;4
+Estadio;Capri;T31;5;2:30:00 p. m.;Lunes;85;1
+San Fernando;Universidades;T47A;9;8:30:00 a. m.;Martes;69;4
+San Fernando;Capri;T31;8;5:30:00 p. m.;Lunes;86;2
+Estadio;San Fernando;T47A;10;8:00:00 a. m.;Jueves;84;3
+Centro;San Bosco;T50;8;8:45:00 p. m.;Lunes;75;3
+San Fernando;Estadio;T47A;10;1:00:00 p. m.;Lunes;57;3
+San Bosco;Centro;T50;8;9:30:00 p. m.;Miércoles;15;3
+Capri;San Fernando;T31;6;9:30:00 p. m.;Sábado;100;0
+San Fernando;Universidades;T47A;5;9:45:00 a. m.;Miércoles;67;0
+Estadio;Capri;T31;4;2:45:00 p. m.;Domingo;48;0
+San Fernando;Estadio;T47A;7;7:15:00 p. m.;Jueves;39;0
+Estadio;San Fernando;T47A;11;6:00:00 p. m.;Viernes;93;4
+San Fernando;Estadio;T47A;10;11:15:00 a. m.;Miércoles;70;3
+Universidades;Meléndez;P21A;6;6:15:00 a. m.;Martes;18;2
+Estadio;Capri;T31;9;10:15:00 p. m.;Martes;37;5
+Estadio;Capri;T31;9;9:15:00 a. m.;Miércoles;42;5
+San Fernando;Estadio;T47A;9;5:15:00 p. m.;Domingo;40;2
+Universidades;Meléndez;P21A;8;3:00:00 p. m.;Martes;66;4
+Estadio;Capri;T31;4;3:30:00 p. m.;Miércoles;99;0
+Capri;San Fernando;T31;6;4:00:00 p. m.;Miércoles;91;0
+Estadio;San Bosco;T50;8;3:15:00 p. m.;Viernes;12;2
+Centro;Terminal Andrés Sanín;E21;10;3:00:00 p. m.;Sábado;49;2
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;17;10:15:00 p. m.;Martes;55;2
+San Fernando;Universidades;T47A;7;7:15:00 a. m.;Lunes;89;2
+San Fernando;Estadio;T47A;7;4:15:00 p. m.;Miércoles;16;0
+San Fernando;Capri;T31;6;1:00:00 p. m.;Viernes;66;0
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;9:45:00 a. m.;Sábado;50;5
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;3:30:00 p. m.;Jueves;19;0
+Unidad Deportiva;Meléndez;P21A;7;12:15:00 p. m.;Lunes;89;2
+Terminal Andrés Sanín;Terminal Menga UTR&T;E27;15;11:30:00 a. m.;Lunes;85;0
+Estadio;Capri;T31;7;9:30:00 a. m.;Jueves;99;3
+San Bosco;Estadio;T50;8;5:15:00 p. m.;Martes;81;2
+Universidades;San Fernando;T47A;9;12:45:00 p. m.;Lunes;34;4
+Centro;San Bosco;T50;8;1:30:00 p. m.;Viernes;74;3
+Centro;Terminal Andrés Sanín;E21;11;2:00:00 p. m.;Sábado;72;3
+Estadio;Capri;T31;5;10:15:00 p. m.;Sábado;11;1
+San Fernando;Estadio;T47A;8;10:15:00 p. m.;Lunes;80;1
+Capri;San Fernando;T31;9;6:45:00 p. m.;Miércoles;98;3
+Estadio;Capri;T31;4;9:30:00 a. m.;Domingo;62;0
+San Fernando;Estadio;T47A;9;4:00:00 p. m.;Jueves;39;2
+Centro;Capri;T31;15;1:45:00 p. m.;Martes;31;5
+Estadio;San Fernando;T47A;9;3:15:00 p. m.;Domingo;92;2
+Capri;Estadio;T31;5;9:30:00 p. m.;Jueves;39;1
+Estadio;San Bosco;T50;10;4:45:00 p. m.;Viernes;74;4
+Terminal Menga UTR&T;Terminal Andrés Sanín;E27;20;12:30:00 p. m.;Miércoles;22;5
+Meléndez;Universidades;P21A;9;10:45:00 p. m.;Martes;76;5
+San Bosco;Centro;T50;7;2:15:00 p. m.;Domingo;26;2
+Capri;San Fernando;T31;7;1:00:00 p. m.;Jueves;17;1
+Terminal Andrés Sanín;Centro;E21;11;8:45:00 a. m.;Miércoles;52;3
+Universidades;Meléndez;P21A;5;8:00:00 a. m.;Sábado;23;1
+Capri;San Fernando;T31;7;12:45:00 p. m.;Domingo;76;1
+Estadio;San Fernando;T47A;9;7:00:00 p. m.;Viernes;73;2
